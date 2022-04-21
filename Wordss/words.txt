@@ -1,6 +1,49 @@
-asdfasd
-fsafasdf
-fasdfasf
-asdfasdf
-asdfasdf
-asfasdfsad
+man
+woman
+body
+head
+shoulder
+arm
+hand
+elbow
+chest
+stomach
+back
+bottom
+thigh
+waist
+leg
+knee
+calf (calves)
+foot (feet)
+ankle
+heel
+thumb
+ring finger
+middle finger
+index finger
+little finger
+fingernail
+shin
+toe
+toenail
+neck
+face
+nose
+mouth
+lip(s)
+tooth (teeth)
+tongue
+eye(s)
+eyebrow
+eyelash
+pupil
+eyelid
+chin
+cheek
+forehead
+hair
+hairy
+bald
+moustache
+beard
