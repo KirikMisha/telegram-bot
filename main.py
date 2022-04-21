@@ -12,8 +12,6 @@ def start(message):
             bot.send_message(message.chat.id, mess )
 
 
-@bot.message_handler()
-def get_user_text(message):
-    bot.send_message(message.chat.id, message, parse_mode='html')
+
 
 bot.polling(none_stop=True)
