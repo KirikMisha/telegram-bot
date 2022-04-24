@@ -3,16 +3,11 @@ from config import BOT_TOKEN
 import sqlite3
 from Game.Game import *
 from Grammar.Grammar import *
+from Vocabulary.Words import *
+from Links.Links import *
 from db import Base
 
 bot = TeleBot(BOT_TOKEN)
-
-with open('./Vocabulary/words.txt', encoding='utf-8') as inp:
-    words = inp.readlines()
-
-with open('./Vocabulary/IrregularVerbs.txt', encoding='utf-8') as inp:
-    Iwords = inp.readlines()
-
 
 @bot.message_handler(commands=['start'])
 def send_start(message):
@@ -33,45 +28,25 @@ def send_menu(message):
 def base(message):
     if message.text == '🕹️ Game':
         Game(message)
+
     elif message.text == '📝 Grammar':
         Grammar(message)
+
     elif message.text == '📚 Vocabulary':
-        markup = types.ReplyKeyboardMarkup()
-        item1 = types.KeyboardButton('📚 Words')
-        item2 = types.KeyboardButton('📖 Irregular verbs')
-        item3 = types.KeyboardButton('💁‍♂ Basic stable expressions')
-        item4 = types.KeyboardButton('⬅ Back')
-        markup.add(item1, item2, item3,item4)
-        bot.send_message(message.chat.id, 'описание слов', reply_markup=markup)
+        Word(message)
+
     elif message.text == 'Полезные ссылки':
-        bot.send_message(message.chat.id, 'Ссылки')
+        Links(message)
+
     elif message.text == '📚 Words':
-        markup = types.ReplyKeyboardMarkup()
-        item1 = types.KeyboardButton('📗 1')
-        item2 = types.KeyboardButton('📗 5')
-        item3 = types.KeyboardButton('📗 10')
-        item4 = types.KeyboardButton('⬅ Back')
-        markup.add(item1, item2, item3, item4)
-        bot.send_message(message.chat.id, 'В этом разделе ты выберешь сколько слов я тебе выдам на заучивание сегодня.'
-                                          'Оптимальным вариантом будет учить по 5-10 слов в день,'
-                                          ' однако главным в этом деле, учить хотя бы одно слово-это уже прогресс.\n'
-                                          'p.s. ( при выборе желаемого количества слов напиши в чат 📗 *пробел* цифра)'
-                                          '', reply_markup=markup)
+        Words(message)
+
     elif message.text == '📖 Irregular verbs':
-        markup = types.ReplyKeyboardMarkup()
-        item1 = types.KeyboardButton('📕 1')
-        item2 = types.KeyboardButton('📕 2')
-        item3 = types.KeyboardButton('📕 3')
-        item4 = types.KeyboardButton('⬅ Back')
-        markup.add(item1, item2, item3, item4)
-        bot.send_message(message.chat.id, 'В этом разделе ты выберешь сколько неправильных глаголов я тебе выдам на '
-                                          'заучивание сегодня.'
-                                          'Оптимальным вариантом будет учить по 5-10 слов в день,'
-                                          ' однако главным в этом деле, учить хотя бы одно слово-это уже прогресс.\n'
-                                          'p.s. ( при выборе желаемого количества слов напиши в чат 📕 *пробел* цифра)'
-                                          '', reply_markup=markup)
+        Irregular_verbs(message)
+
     elif message.text == '⬅ Back':
         send_menu(message)
+
     elif message.text[0] == '📗':
         if message.text.replace('📗 ', '').isdigit():
             number = int(message.text.replace('📗 ', ''))
@@ -87,14 +62,8 @@ def base(message):
         else:
             bot.send_message(message.chat.id, 'Enter a number')
     elif message.text == '🕰️ Time':
-        markup = types.ReplyKeyboardMarkup()
-        item1 = types.KeyboardButton('⏳Present simple',)
-        item2 = types.KeyboardButton('⌚Present continuous')
-        item3 = types.KeyboardButton('⏰Present perfect')
-        item4 = types.KeyboardButton('🔞Past simple')
-        item5 = types.KeyboardButton('⬅ Back')
-        markup.add(item1, item2, item3, item4, item5)
-        bot.send_message(message.chat.id, 'описание граматики', reply_markup=markup)
+        Time(message)
+
     elif message.text == '⏳Present simple':
         markup = types.ReplyKeyboardMarkup()
         item1 = types.KeyboardButton('🙈TestFirst')
