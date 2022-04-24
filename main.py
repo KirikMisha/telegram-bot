@@ -38,8 +38,8 @@ def base(message):
     elif message.text == 'Полезные ссылки':
         Links(message)
 
-    elif message.text == '📚 Words':
-        Words(message)
+    elif message.text == '📚 Ordinary words':
+        ordinary_words(message)
 
     elif message.text == '📖 Irregular verbs':
         Irregular_verbs(message)
@@ -47,20 +47,18 @@ def base(message):
     elif message.text == '⬅ Back':
         send_menu(message)
 
+    elif message.text == '📗 Restart':
+        Restart_ordinary_words(message)
+
     elif message.text[0] == '📗':
-        if message.text.replace('📗 ', '').isdigit():
-            number = int(message.text.replace('📗 ', ''))
-            for i in range(number):
-                bot.send_message(message.chat.id, words[i])
-        else:
-            bot.send_message(message.chat.id, 'Enter a number')
+        number_ordinary_words(message)
+
+    elif message.text == '📕 Restart':
+        Restart_Irregular_verbs(message)
+
     elif message.text[0] == '📕':
-        if message.text.replace('📕 ', '').isdigit():
-            number = int(message.text.replace('📕 ', ''))
-            for i in range(number):
-                bot.send_message(message.chat.id, Iwords[i])
-        else:
-            bot.send_message(message.chat.id, 'Enter a number')
+        number_Irregular_verbs(message)
+
     elif message.text == '🕰️ Time':
         Time(message)
 
