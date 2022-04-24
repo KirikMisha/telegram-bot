@@ -1,0 +1,1416 @@
+man	[mæn]	человек, мужчина
+woman	[‘wumən]	женщина
+body	[‘bɔdɪ]	тело
+head	[hed]	голова
+shoulder	[‘ʃəuldə]	плечо
+arm	[ɑːm]	рука
+hand	[hænd]	рука (кисть)
+elbow	[‘elbəu]	локоть
+chest	[ʧest]	грудная клетка
+stomach	[‘stʌmək]	живот, желудок
+back	[bæk]	спина
+bottom	[‘bɔtəm]	зад
+thigh	[θaɪ]	бедро
+waist	[weɪst]	талия
+leg	[leg]	нога
+knee	[niː]	колено
+calf (calves)	[kɑːf] [kɑːvz]	икра (икры ног)
+foot (feet)	[fut] [fiːt]	ступня (ступни)
+ankle	[‘æŋkl]	лодыжка
+heel	[hiːl]	пятка
+thumb	[θʌm]	большой палец
+ring finger	[rɪŋ ‘fɪŋgə]	безымянный палец
+middle finger	[‘mɪdl ‘fɪŋgə]	средний палец
+index finger	[‘ɪndeks ‘fɪŋgə]	указательный палец
+little finger	[‘lɪtl ‘fɪŋgə]	мизинец
+fingernail	[‘fɪŋgəneɪl]	ноготь
+shin	[ʃɪn]	голень
+toe	[təu]	палец ноги
+toenail	[‘təuneɪl]	ноготь на пальце ноги
+neck	[nek]	шея
+face	[feɪs]	лицо
+nose	[nəuz]	нос
+mouth	[mauθ]	рот
+lip(s)	[lɪp]	губа, губы
+tooth (teeth)	[tuːθ] [tiːθ]	зуб, зубы
+tongue	[tʌŋ]	язык
+eye(s)	[aɪ]	глаз, глаза
+eyebrow	[‘aɪbrau]	бровь
+eyelash	[‘aɪlæʃ]	ресница
+pupil	[‘pjuːp(ə)l]	зрачок
+eyelid	[‘aɪlɪd]	веко
+chin	[ʧɪn]	подбородок
+cheek	[ʧiːk]	щека
+forehead	[‘fɔːhed]	лоб
+hair	[heə]	волосы
+hairy	[‘heərɪ]	волосатый
+bald	[bɔːld]	лысый
+moustache	[mə’stɑːʃ]	усы
+beard	[bɪəd]	борода
+family	[‘fæm(ə)lɪ]	семья
+mother	[‘mʌðə]	мама
+father	[‘fɑːðə]	папа
+parents	[‘peər(ə)nts]	родители
+son	[sʌn]	сын
+daughter	[‘dɔːtə]	дочь
+children	[‘ʧɪldr(ə)n]	дети
+sister	[‘sɪstə]	сестра
+brother	[‘brʌðə]	брат
+grandmother	[‘græn(d)ˌmʌðə]	бабушка
+grandfather	[‘græn(d)ˌfɑːðə]	дедушка
+grandparents	[‘græn(d)ˌpeər(ə)nts]	дедушка и бабушка
+great-grandmother	[greɪt-‘græn(d)ˌmʌðə]	прабабушка
+great-grandfather	[ˌgreɪt’grændˌfɑːðə]	прадедушка
+grandson	[‘græn(d)sʌn]	внук
+granddaughter	[‘græn(d)ˌdɔːtə]	внучка
+aunt	[ɑːnt]	тётя
+uncle	[‘ʌŋkl]	дядя
+niece	[niːs]	племянница
+nephew	[‘nefjuː]	племянник
+appearance	[ə’pɪər(ə)n(t)s]	внешность
+thin	[θɪn]	худой
+fat	[fæt]	толстый
+tall	[tɔːl]	высокий
+short	[ʃɔːt]	невысокий
+weak	[wiːk]	слабый
+strong	[strɔŋ]	сильный
+slim	[slɪm]	стройный
+plump	[plʌmp]	полный
+skinny	[ˈskɪnɪ]	тощий
+old	[əuld]	старый
+young	[jʌŋ]	молодой
+hairy	[‘heərɪ]	волосатый
+bald	[bɔːld]	лысый
+curly	[ˈkɜːlɪ]	кудрявый
+straight	[streɪt]	прямые
+pretty	[ˈprɪtɪ]	красивая
+handsome	[ˈhæn(d)səm]	красивый
+ugly	[ˈʌɡlɪ]	уродливый
+character	[‘kærəktə]	характер
+clever	[‘klevə]	умный
+talented	[‘tæləntɪd]	талантливый
+active	[ˈæktɪv]	активный
+creative	[krɪˈeɪtɪv]	творческий
+energetic	[ˌɛnəˈdʒɛtɪk]	энергичный
+stupid	[‘stjuːpɪd]	глупый
+considerate	[kən’sɪd(ə)rət]	внимательный
+cruel	[‘kruːəl]	жестокий
+unkind	[ʌn’kaɪnd]	злой
+polite	[pə’laɪt]	вежливый
+rude	[ruːd]	грубый
+kind	[kaɪnd]	добрый
+tactful	[ˈtæktf(ə)l]	тактичный
+married	[ˈmærɪd]	женатый, замужняя
+single	[ˈsɪŋɡ(ə)l]	холостяк, незамужняя
+generous	[‘ʤen(ə)rəs]	щедрый
+greedy	[‘griːdɪ]	жадный
+rich	[rɪtʃ]	богатый, состоятельный
+poor	[pʊə]	бедный, малоимущий
+sense	[sen(t)s]	чувство
+taste	[teɪst]	вкус
+sight	[saɪt]	зрение
+smell	[smel]	обоняние
+touch	[tʌʧ]	осязание
+hearing	[‘hɪərɪŋ]	слух
+glimpse	[glɪmps]	беглый взгляд
+scan	[skæn]	высматривать
+see	[siː]	видеть
+notice	[‘nəutɪs]	замечать
+glance	[glɑːn(t)s]	мельком взглянуть
+observe	[əb’zɜːv]	наблюдать
+listen	[‘lɪs(ə)n]	слушать
+hear	[hɪə]	слышать
+watch	[wɔʧ]	смотреть
+look	[luk]	взгляд
+stare	[steə]	пристально глядеть
+overhear	[ˌəuvə’hɪə]	подслушивать
+delicious	[dɪ’lɪʃəs]	очень вкусный
+emotion	[ɪ’məuʃ(ə)n]	эмоция
+mischievous	[‘mɪsʧɪvəs]	озорной, непослушный
+ecstatic	[ɪk’stætɪk]	восторженный
+content	[kən’tent]	довольный
+bored	[bɔːd]	скучающий
+shocked	[ʃɔkd]	в состоянии шока
+offended	[əˈfɛndɪd]	обиженный
+confident	[‘kɔnfɪd(ə)nt]	самоуверенный
+happy	[‘hæpɪ]	счастливый
+hopeful	[‘həupf(ə)l]	надеющийся
+curious	[‘kjuərɪəs]	любопытный
+excited	[ɪk’saɪtɪd]	взволнованный
+lonely	[‘ləunlɪ]	одинокий
+nervous	[‘nɜːvəs]	нервный
+goofy	[‘guːfɪ]	бестолковый, глупый
+scared	[skeəd]	испуганный
+sad	[sæd]	грустный, печальный
+hungry	[‘hʌŋgrɪ]	голодный
+thirsty	[‘θɜːstɪ]	испытывающий жажду
+tired	[‘taɪəd]	уставший
+sleepy	[‘sliːpɪ]	сонный
+surprised	[sə’praɪzd]	удивленный
+piece	[piːs]	монета
+coin	[kɔɪn]	монета
+one p coin	[wʌn pi: kɔɪn]	1 пенс
+a penny	[ə’penɪ]	1 пенс
+twopence	[‘tʌp(ə)n(t)s]	2 пенса
+a twopenny	[ə’tʌp(ə)nɪ]	2 пенса
+a fivepenny piece	[ə’faɪvpenɪ piːs]	5 пенсов
+five p	[faɪv piː]	5 пенсов
+a tenpenny piece	[ə’tenpenɪ piːs]	10 пенсов
+ten p	[ten piː]	10 пенсов
+a twenty pence coin	[ə’twentɪ pen(t)s kɔɪn]	20 пенсов
+twenty p	[‘twentɪ piː]	20 пенсов
+a fifty pence piece	[ə’fɪftɪ pen(t)s piːs]	50 пенсов
+fifty p	[‘fɪftɪ piː]	50 пенсов
+a pound	[ə paund]	1 фунт
+quid	[kwɪd]	соверен, фунт (стерлингов)
+five pounds (quid)	[faɪv paundz(kwɪd)]	5 фунтов
+a fiver	[‘faɪvə]	5 фунтов
+ten pounds (quid)	[ten paundz(kwɪd)]	10 фунтов
+a tenner	[‘tenə]	10 фунтов
+twenty pounds (quid)	[‘twentɪ paundz(kwɪd)]	20 фунтов
+fifty pounds (quid)	[‘fɪftɪ paundz(kwɪd)]	50 фунтов
+one cent	[wʌn sent]	1 цент
+a penny	[ə’penɪ]	1 цент
+five cents	[faɪv sents]	5 центов
+a nickel	[ə’nɪkl]	5 центов
+ten cents	[ten sents]	10 центов
+a dime	[ə daɪm]	10 центов
+twenty-five cents	[‘twentɪ faɪv sents]	25 центов
+a quarter	[ə’kwɔːtə]	25 центов
+a half-dollar	[ə hɑːf ‘dɔlə]	50 центов
+one dollar	[wʌn ‘dɔlə]	1 доллар
+two dollar	[tuː’dɔlə]	2 доллара
+five dollar	[faɪv ‘dɔlə]	5 долларов
+ten dollar	[ten ‘dɔlə]	10 долларов
+twenty dollar	[‘twentɪ ‘dɔlə]	20 долларов
+fifty dollar	[‘fɪftɪ ‘dɔlə]	50 долларов
+hundred dollar	[‘hʌndrəd ‘dɔlə]	100 долларов
+aquamarine	[ ˌækwəməˈriːn ]	аквамарин
+beige	[ beɪʒ ]	бежевый
+snowy, snow-white	[ ˈsnəʊɪ ] [ ˈsnəʊ waɪt ]	белоснежный
+white	[ waɪt ]	белый
+turquoise	[ ˈtɜːkwɔɪz ]	бирюзовый
+pale	[ peɪl ]	бледный
+wine red, bordeaux, claret red	[ waɪn red ] [ bɔːˈdəʊ ] [ ˈklærət red ]	бордовый
+bronze	[ brɒnz ]	бронзовый
+yellow green	[ ˈjeləʊ ɡriːn ]	желто-зеленый
+yellow	[ ˈjeləʊ ]	желтый
+pearl	[ pɜːl ]	жемчужный
+green	[ ɡriːn ]	зеленый
+goldenrod	[ ˈɡoldənˌrɑːd ]	золотистый
+gold, golden	[ ɡəʊld ] [ ˈɡəʊldən ]	золотой
+emerald	[ ˈemərəld ]	изумрудный
+indigo	[ ˈɪndɪɡəʊ ]	индиго
+firebrick	[ ˈfaɪəbrɪk ]	кирпичный
+coral	[ ˈkɒrəl ]	коралловый
+brown	[ braʊn ]	коричневый
+red	[ red ]	красный
+cream	[ kriːm ]	кремовый
+azure	[ ˈæʒə ] [ æ’zjuə ]	лазурный
+lime green	[ laɪm ɡriːn ]	лимонно-зеленый
+lemon	[ ˈlemən ]	лимонный
+salmon	[ ˈsæmən ]	лососевый
+raspberry	[ ˈrɑːzbəri ]	малиновый
+copper	[ ˈkɒpə ]	медный
+honeydew	[ ˈhʌnɪdjuː ]	медовый
+aqua	[ ˈækwə ]	морская волна
+sky blue	[ skaɪ bluː ]	небесно-голубой
+olive	[ ˈɒlɪv ]	оливковый
+orange	[ ˈɒrɪndʒ ]	оранжевый
+sienna	[ sɪˈenə ]	охра
+ash	[ æʃ ]	пепельно-серый
+peach, peachpuff	[ piːtʃ ] [ˈpiːtʃˈpʌf ]	персиковый
+sand-coloured	[ sænd ˈkʌləd ]	песочный
+purple	[ ˈpɜːpəl ]	пурпурный
+pink	[ pɪŋk ]	розовый
+light-green	[ laɪt ɡriːn ]	салатовый
+light	[ laɪt ]	светлый
+silver, silvery	[ ˈsɪlvə ] [ ˈsɪlvəri ]	серебряный
+grey, gray	[ ɡreɪ ]	серый
+blue	[ bluː ]	синий
+lilac	[ ˈlaɪlək ]	сиреневый
+plum	[ plʌm ]	сливовый
+ivory	[ ˈaɪvəri ]	слоновая кость
+steel gray	[ stiːl ɡreɪ ]	стальной серый
+maroon	[ məˈruːn ]	темно-бордовый
+dark	[ dɑːk ]	темный
+navy (blue)	[ ˈneɪvi bluː ]	тёмно-синий
+terracotta	[ ˌterəˈkɒtə ]	терракотовый
+dull	[ dʌl ]	тусклый
+purple	[ ˈpɜːpəl ]	фиолетовый
+violet	[ ˈvaɪələt ]	фиолетовый, темно-лиловый
+pistachio	[ pɪˈstɑːtʃɪəʊ ]	фисташковый, зеленоватый цвет
+magenta	[ məˈdʒentə ]	фуксин
+fuchsia	[ ˈfjuːʃə ]	фуксия
+khaki, forest green	[ ˈkɑːki ] [ ˈfɒrɪst ɡriːn ]	хаки
+seagreen	[ ˈsiːˈɡriːn ]	цвет морской волны
+sea foam	[ siː fəʊm ]	цвет морской пены
+black	[ blæk ]	черный
+amber	[ ˈæmbə ]	янтарный
+time	[taɪm]	время
+past	[pɑːst]	прошлое
+future	[ˈfjuːʧə]	будущее
+present	[ˈprɛznt]	настоящее
+age	[eɪʤ]	эра (также «возраст»)
+millenium	[mɪlˈiːnɪəːm]	тысячелетие
+century	[ˈsɛnʧʊri]	век
+decade	[ˈdɛkeɪd]	десятилетие
+year	[jɪə]	год
+month	[mʌnθ]	месяц
+week	[wiːk]	неделя
+day	[deɪ]	день
+hour	[ˈaʊə]	час
+half an hour	[hɑːf ən ˈaʊə]	полчаса
+minute	[ˈmɪnɪt]	минута
+second	[ˈsɛkənd]	секунда
+watch	[wɒʧ]	часы (наручные)
+clock	[klɒk]	часы (настенные)
+calendar	[ˈkælɪndə]	календарь
+schedule	[ˈʃɛdjuːl]	расписание
+action	[‘ækʃ(ə)n]	действие
+walk	[wɔːk]	идти, ходить
+run	[rʌn]	бежать, бегать
+march	[mɑːtʃ]	маршировать
+tiptoe	[ˈtɪptəʊ]	ходить на цыпочках
+crawl	[krɔːl]	ползать
+drag	[dræg]	тянуть, тащить
+pull	[pʊl]	тянуть, тащить
+push	[puʃ]	толкать; пихать
+jump	[ʤʌmp]	прыгать, скакать
+skip	[skɪp]	прыгать, скакать
+leap	[liːp]	прыжок, скачок
+hop	[hɔp]	подпрыгивать
+hit	[hɪt]	ударять (по чему-л.)
+slap	[slæp]	шлепать, хлопать
+kick	[kɪk]	удар ногой
+stretch	[streʧ]	тянуться, вытягиваться
+lift	[lɪft]	поднятие, поднимать
+put	[pʊt]	класть, ставить
+lean	[liːn]	прислонять, опирать
+dive	[daɪv]	нырять
+sit	[sɪt]	сидеть; садиться
+squat	[skwɔt]	приседание
+bend	[bend]	сгибаться
+hold	[həuld]	держать; обнимать
+carry	[‘kærɪ]	нести, носить
+catch	[kæʧ]	ловить; поймать
+throw	[θrəu]	бросать, кидать
+food	[fuːd]	питание, еда
+ham	[hæm]	ветчина
+sausage	[‘sɔsɪʤ]	колбаса, сосиска
+meat	[miːt]	мясо
+egg	[eg]	яйцо
+pizza	[‘piːtsə]	пицца
+soup	[suːp]	суп
+bread	[bred]	хлеб
+milk	[mɪlk]	молоко
+porridge	[‘pɔrɪʤ]	каша
+flour	[‘flauə]	мука
+garlic	[‘gɑːlɪk]	чеснок
+salad	[‘sæləd]	салат
+fish	[fɪʃ]	рыба
+chicken	[‘ʧɪkɪn]	цыплёнок
+pork	[pɔːk]	свинина
+beef	[biːf]	говядина
+steak	[steɪk]	бифштекс, стейк
+spice	[spaɪs]	специя, пряность
+butter	[‘bʌtə]	масло
+potato	[pə’teɪtəu]	картофель
+macaroni	[ˌmæk(ə)’rəunɪ]	макароны
+cheese	[ʧiːz]	сыр
+rice	[raɪs]	рис
+pasta	[‘pæstə]	паста
+ketchup	[‘keʧʌp]	кетчуп
+sauce	[sɔːs]	соус
+mayonnaise	[ˌmeɪə’neɪz]	майонез
+bean	[biːn]	фасоль
+pepper	[‘pepə]	перец
+salt	[sɔːlt]	соль
+sandwich	[‘sænwɪʤ]	бутерброд
+cutlet	[‘kʌtlət]	котлета
+caviar	[‘kævɪɑː]	икра
+vegetables	[‘veʤ(ə)təbls]	овощи
+fruit	[fruːt]	фрукт
+baked	[beɪkt]	печёный, выпеченный
+fried	[fraɪd]	жареный
+pickled cucumbers	[‘pɪkld ‘kjuːkʌmbəs]	соленые огурцы
+marinated tomatoes	[‘mærɪneɪt tə’mɑːtəus]	маринованные помидоры
+tea	[tiː]	чай
+coffee	[‘kɔfɪ]	кофе
+cocoa	[‘kəukəu]	какао
+chocolate	[‘ʧɔklət]	шоколад
+jam	[ʤæm]	варенье; джем
+sugar	[‘ʃugə]	сахар
+candy	[‘kændɪ]	конфета
+cake	[keɪk]	кекс, торт
+cookie	[‘kukɪ]	печенье
+croissant	[‘krwɑːsɑːŋ]	французский рогалик
+cocktail	[‘kɔkteɪl]	коктейль
+juice	[ʤuːs]	сок
+jelly	[‘ʤelɪ]	желе
+ice cream	[ˌaɪs’kriːm]	мороженое
+pancake	[‘pænkeɪk]	блин, оладья
+pie	[paɪ]	пирог
+sweet	[swiːt]	сладкий (о вкусе)
+bitter	[‘bɪtə]	горький (на вкус)
+salted	[‘sɔːltɪd]	солёный (о вкусе)
+sour	[‘sauə]	кислый (на вкус)
+drink	[drɪŋk]	напиток, пить
+soft drink	[sɒft drɪŋk]	безалкогольный напиток
+beverage	[ˈbɛvərɪdʒ]	напиток
+water	[ˈwɔːtə]	вода
+lemonade	[ˌlɛməˈneɪd]	лимонад
+tea	[tiː]	чай
+coffee	[ˈkɒfɪ]	кофе
+juice	[dʒuːs]	сок
+milk	[mɪlk]	молоко
+cocoa	[ˈkəʊkəʊ]	какао
+chocolate	[ˈtʃɒklət]	горячий шоколад
+cocktail	[ˈkɒkteɪl]	коктейль
+milkshake	[ˈmɪlkʃeɪk]	молочный коктейль
+iced tea	[aɪst tiː]	холодный чай
+orange juice	[ˈɒrɪndʒ dʒuːs]	апельсиновый сок
+tomato juice	[təˈmɑːtəʊ dʒuːs]	томатный сок
+fruit juice	[fruːt dʒuːs]	фруктовый сок
+vegetable juice	[ˈvɛdʒ(ə)təbl dʒuːs]	овощной сок
+alcohol	[ˈælkəhɒl]	алкоголь, спирт
+alcoholic beverage	[ælkəˈhɔlɪk ˈbevərɪʤ]	алкогольные напитки
+beer	[bɪə]	пиво
+wine	[waɪn]	вино
+cooking	[ˈkʊkɪŋ]	кулинария, готовка
+bake	[beɪk]	печь, выпекать
+boil	[bɔɪl]	варить
+fry	[fraɪ]	жарить
+peel	[piːl]	снимать кожуру
+slice	[slaɪs]	резать ломтиками
+grate	[ɡreɪt]	тереть на терке
+pour	[pɔː]	наливать
+mix	[mɪks]	смешивать
+knead	[niːd]	замешивать
+chop	[tʃɒp]	рубить
+mince	[mɪns]	крошить
+melt	[mɛlt]	плавить
+sift	[sɪft]	просеивать
+stir	[stɜː]	помешивать
+beat	[biːt]	отбивать
+whisk	[wɪsk]	сбивать
+simmer	[ˈsɪmə]	тушить
+roast	[rəʊst]	прожаривание
+grill	[ɡrɪl]	жарить на рашпиле
+add	[æd]	добавлять
+wash	[wɒʃ]	мыть
+weigh	[weɪ]	взвешивать
+cook	[kʊk]	повар
+tool	[tuːl]	инструмент
+hammer	[‘hæmə]	молоток
+mallet	[‘mælɪt]	деревянный молоток
+handsaw	[‘hæn(d)sɔː]	ручная пила
+sandpaper	[‘sæn(d)ˌpeɪpə]	наждачная бумага
+plane	[pleɪn]	рубанок
+drill	[drɪl]	дрель, перфоратор
+hacksaw	[‘hæksɔː]	ножовка
+vise	[vaɪs]	тиски
+screwdriver	[‘skruːˌdraɪvə]	отвёртка
+awl	[ɔːl]	шило
+file	[faɪl]	напильник
+chisel	[‘ʧɪz(ə)l]	зубило
+wrench	[ren(t)ʃ]	гаечный ключ
+pliers	[‘plaɪəz]	плоскогубцы
+scissors	[‘sɪzəz]	ножницы
+pocketknife	[‘pɔkɪtnaɪf]	многофункциональный нож
+toolbox	[‘tuːlbɔks]	инструментальный ящик
+axe	[æks]	топор
+spade	[speɪd]	лопата
+bucket	[ˈbʌkɪt]	ведро
+ladder	[ˈlædə]	лестница (приставная)
+stepladder	[ˈstɛpˌlædə]	стремянка
+nail	[neɪl]	гвоздь
+screw	[skruː]	винт, шуруп
+bolt	[bəʊlt]	болт
+nut	[nʌt]	гайка
+washer	[ˈwɒʃə]	шайба
+stationery	[ˈsteɪʃ(ə)n(ə)rɪ]	канцелярские товары
+office supplies	[‘ɔfɪs sə’plaɪs]	канцелярские товары
+clip	[klɪp]	скрепка
+paper	[ˈpeɪpə]	бумага
+clamp	[klæmp]	зажим
+pushpin	[ˈpʊʃpɪn]	канцелярская кнопка
+stapler	[ˈsteɪplə]	степлер
+staples	[ˈsteɪpls]	скобки для степлера
+scotch tape	[‘skɔʧˌteɪp]	скотч
+scissors	[ˈsɪzəz]	ножницы
+pen	[pɛn]	ручка
+pencil	[ˈpɛn(t)s(ə)l]	карандаш
+eraser	[ɪˈreɪzə]	ластик, резинка
+marker	[ˈmɑːkə]	маркер
+highlighter	[ˈhaɪlaɪtə]	маркер
+glue	[ɡluː]	клей
+notebook	[ˈnəʊtbʊk]	блокнот
+notepad	[ˈnəʊtpæd]	блокнот
+calculator	[ˈkælkjʊleɪtə]	калькулятор
+clipboard	[ˈklɪpbɔːd]	планшет с зажимом
+ruler	[ˈruːlə]	линейка
+correction fluid	[kəˈrɛkʃ(ə)nˌfluːɪd]	замазка
+file	[faɪl]	папка
+folder	[ˈfəʊldə]	папка
+envelope	[ˈɛnvələʊp]	конверт
+sticker	[ˈstɪkə]	стикер, наклейка
+punch	[pʌntʃ]	дырокол
+size	[saɪz]	размер
+small	[smɔːl]	маленький
+big	[bɪɡ]	большой
+medium	[ˈmiːdɪəm]	средний
+little	[lɪtl]	маленький
+large	[lɑːdʒ]	большой
+huge	[hjuːdʒ]	огромный
+long	[lɒŋ]	длинный
+short	[ʃɔːt]	короткий
+wide	[waɪd]	широкий
+narrow	[ˈnærəʊ]	узкий
+high	[haɪ]	высокий
+tall	[tɔːl]	высокий
+low	[ləʊ]	низкий
+deep	[diːp]	глубокий
+shallow	[ˈʃæləʊ]	мелкий
+thick	[θɪk]	толстый
+thin	[θɪn]	тонкий
+far	[fɑː]	далекий
+near	[nɪə]	близкий
+pet	[pɛt]	домашнее животное
+cat	[kæt]	кот, кошка
+kitten	[kɪtn]	котенок
+dog	[dɒɡ]	собака
+puppy	[ˈpʌpɪ]	щенок
+hamster	[ˈhæmstə]	хомяк
+guinea pig	[ˈɡɪnɪˌpɪɡ]	морская свинка
+farm	[fɑːm]	ферма
+chicken	[ˈtʃɪkɪn]	курица
+rooster	[ˈruːstə]	петух
+turkey	[ˈtɜːkɪ]	индюк, индейка
+goat	[ɡəʊt]	козел, коза
+kid	[kɪd]	козленок
+sheep	[ʃiːp]	овца, баран
+lamb	[læm]	ягненок, барашек
+bull	[bʊl]	бык
+cow	[kaʊ]	корова
+calf	[kɑːf]	теленок
+horse	[hɔːs]	лошадь
+pig	[pɪɡ]	свинья
+piglet	[ˈpɪɡlət]	поросенок
+rabbit	[ˈræbɪt]	кролик
+animal	[‘ænɪm(ə)l]	животное
+bear	[beə]	медведь
+fox	[fɒks]	лиса
+rabbit	[ˈræbɪt]	заяц
+wolf	[wʊlf]	волк
+pig	[pɪg]	кабан
+deer	[dɪə]	олень
+moose	[muːs]	лось
+donkey	[ˈdɒŋkɪ]	осел
+buffalo	[ˈbʌfəl|əʊ]	зубр
+camel	[ˈkæm(ə)l]	верблюд
+giraffe	[ʤɪ’rɑːf]	жираф
+hippopotamus	[ˌhɪpə’pɔtəməs]	бегемот
+zebra	[‘zebrə]	зебра
+kangaroo	[ˌkæŋg(ə)’ruː]	кенгуру
+elephant	[‘elɪfənt]	слон
+llama	[ˈlɑːmə]	лама
+horse	[hɔːs]	конь, лошадь
+foal	[fəʊl]	жеребенок
+armadillo	[ˌɑːməˈdɪl|əʊ]	броненосец
+leopard	[ˈlɛpəd]	леопард
+lion	[‘laɪən]	лев
+tiger	[ˈtaɪɡə]	тигр
+bison	[ˈbaɪs(ə)n]	бизон
+koala	[kəu’ɑːlə]	коала
+hyena	[haɪˈiːnə]	гиена
+panda	[‘pændə]	панда
+rhinoceros	[raɪˈnɒs(ə)rəs]	носорог
+monkey	[ˈmʌŋkɪ]	обезьяна
+gorilla	[gə’rɪlə]	горилла
+chimpanzee	[ˌtʃɪmpænˈziː]	шимпанзе
+gibbon	[ˈɡɪbən]	гиббон
+baboon	[bəˈbuːn]	бабуин
+anteater	[ˈæntˌiːtə]	муравьед
+mouse	[maus]	мышь
+possum	[ˈpɒsəm]	опоссум
+skunk	[skʌŋk]	скунс
+bat	[bæt]	летучая мышь
+beaver	[ˈbiːvə]	бобер
+gopher	[ˈɡəʊfə]	суслик
+squirrel	[ˈskwɪrəl]	белка
+rat	[ræt]	крыса
+chipmunk	[ˈtʃɪpmʌŋk]	бурундук
+porcupine	[ˈpɔːkjʊpaɪn]	дикобраз
+raccoon	[ræˈkuːn-]	енот
+reptile	[ˈrɛptaɪl]	рептилия
+crocodile	[ˈkrɒkədaɪl]	крокодил
+alligator	[ˈælɪɡeɪtə]	аллигатор
+tortoise	[ˈtɔːtəs]	черепаха
+turtle	[ˈtɜːtl]	черепаха
+lizard	[ˈlɪzəd]	ящерица
+goanna	[ɡəʊˈænə]	варан
+iguana	[ɪˈɡwɑːnə]	игуана
+tadpole	[ˈtædpəʊl]	головастик
+frog	[frɒɡ]	лягушка
+salamander	[ˈsæləmændə]	саламандра
+chameleon	[kəˈmiːlɪən]	хамелеон
+snake	[sneɪk]	змея
+rattlesnake	[ˈrætlsneɪk]	гремучая змея
+cobra	[ˈkɒbrə]	кобра
+python	[ˈpaɪθ(ə)n]	питон
+dinosaur	[ˈdaɪnəsɔː]	динозавр
+fruit	[fruːt]	фрукт
+apricot	[‘eɪprɪkɔt]	абрикос
+pineapple	[‘paɪnæpl]	ананас
+banana	[bə’nɑːnə]	банан
+bergamot	[‘bɜːgəmɔt]	бергамот
+grape	[greɪp]	виноград
+grapefruit	[‘greɪpfruːt]	грейпфрут
+pear	[peə]	груша
+melon	[‘melən]	дыня
+lemon	[‘lemən]	лимон
+mandarin	[‘mænd(ə)rɪn]	мандарин
+peach	[piːʧ]	персик
+plum	[plʌm]	слива
+apple	[‘æpl]	яблоко
+lime	[laɪm]	лайм
+kiwi	[‘kiːwiː]	киви
+fig	[fɪg]	инжир
+mango	[‘mæŋgəu]	манго
+persimmon	[pə’sɪmən]	хурма
+pomelo	[‘pɔmɪləu]	помело
+berry	[‘berɪ]	ягода
+watermelon	[‘wɔːtəˌmelən]	арбуз
+barberry	[‘bɑːbərɪ]	барбарис
+cowberry	[‘kaubərɪ]	брусника
+cherry	[‘ʧerɪ]	вишня
+blackberry	[‘blækb(ə)rɪ]	ежевика
+strawberry	[‘strɔːb(ə)rɪ]	земляника; клубника
+viburnum	[vaɪ’bɜːnəm]	калина
+cranberry	[‘krænb(ə)rɪ]	клюква
+dogwood	[‘dɔgwud]	кизил
+raspberry	[‘rɑːzb(ə)rɪ]	малина
+blueberry	[‘bluːbərɪ]	черника; голубика
+elder	[‘eldə]	бузина
+gooseberry	[‘guzb(ə)rɪ]	крыжовник
+sea-buckthorn	[siː’bʌkθɔːn]	облепиха
+rowan	[‘rəuən]	рябина
+black chokeberry	[blæk ʧəuk’berɪ]	рябина черноплодная
+redcurrant	[ˌred’kʌr(ə)nt]	смородина красная
+blackcurrant	[blæk’kʌr(ə)nt]	смородина чёрная
+vegetable	[‘veʤ(ə)təbl]	овощ
+basil	[‘bæzl]	базилик
+eggplant	[‘egplɑːnt]	баклажаны
+bean	[biːn]	бобы
+pea	[piː]	горох
+cabbage	[‘kæbɪʤ]	капуста
+potato	[pə’teɪtəu]	картофель
+onion	[‘ʌnjən]	лук
+carrot	[‘kærət]	морковь
+cucumber	[‘kjuːkʌmbə]	огурец
+pepper	[‘pepə]	перец
+parsley	[‘pɑːslɪ]	петрушка
+tomato	[tə’mɑːtəu]	помидор
+radish	[‘rædɪʃ]	редис
+beet	[biːt]	свекла
+celery	[‘sel(ə)rɪ]	сельдерей
+pumpkin	[‘pʌmpkɪn]	тыква
+dill	[dɪl]	укроп
+haricot	[‘hærɪkəu]	фасоль
+garlic	[‘gɑːlɪk]	чеснок
+sorrel	[‘sɔr(ə)l]	щавель
+house	[haus]	дом
+apartment	[ə’pɑːtmənt]	квартира
+room	[ruːm]	комната; помещение
+bathroom	[‘bɑːθruːm]	ванная комната
+balcony	[‘bælkənɪ]	балкон
+bedroom	[‘bedruːm]	спальня
+closet	[‘klɔzɪt]	шкаф
+dining room	[‘daɪnɪŋˌrum]	столовая
+doorbell	[‘dɔːbel]	дверной звонок
+door	[dɔː]	дверь
+upstairs	[ʌp’steəz]	верхний этаж
+downstairs	[‘daun’steəz]	подвальный этаж
+roof	[ruːf]	крыша, кровля
+window	[‘wɪndəu]	окно
+garage	[‘gærɑːʒ]	гараж
+hall	[hɔːl]	зал
+kitchen	[‘kɪʧɪn]	кухня
+hallway	[‘hɔːlweɪ]	коридор
+living room	[‘lɪvɪŋˌrum]	гостиная
+mailbox	[‘meɪlbɔks]	почтовый ящик
+shower	[‘ʃəuə]	душ
+stairs	[steə’z]	лестница
+toilet	[‘tɔɪlət]	туалет, унитаз
+living room	[‘lɪvɪŋˌrum]	гостиная
+sofa	[‘səufə]	диван
+couch	[kauʧ]	диван, кушетка
+armchair	[ˌɑːm’ʧeə]	кресло
+chair	[ʧeə]	стул
+floor	[flɔː]	пол
+rug	[rʌg]	ковёр, коврик
+table	[‘teɪbl]	стол
+lamp	[læmp]	лампа
+wall	[wɔːl]	стена
+sconce	[skɔn(t)s]	бра, подсвечник
+drape	[dreɪp]	занавес, шторa
+curtain	[‘kɜːt(ə)n]	занавеска, штора
+pillow	[‘pɪləu]	подушка
+ceiling	[‘siːlɪŋ]	потолок
+painting	[‘peɪntɪŋ]	картина
+picture	[‘pɪkʧə]	картина; рисунок
+frame	[freɪm]	рама, рамка
+fireplace	[‘faɪəpleɪs]	камин, очаг
+bookcase	[‘bukkeɪs]	книжный шкаф
+book	[buk]	книга
+bathroom	[‘bɑːθruːm]	ванная комната
+toilet	[‘tɔɪlət]	унитаз, туалет
+restroom	[‘restrum]	уборная, туалет
+freshener	[‘freʃ(ə)nə]	освежающее средство, освежитель
+towel	[‘tauəl]	полотенце
+hamper	[‘hæmpə]	корзина с крышкой
+scale	[skeɪl]	весы
+shelf	[ʃelf]	полка
+fan	[fæn]	фен
+mirror	[‘mɪrə]	зеркало
+sink	[sɪŋk]	раковина
+bath	[bɑːθ]	ванна
+toothbrush	[‘tuːθbrʌʃ]	зубная щётка
+toothpaste	[‘tuːθpeɪst]	зубная паста
+soap	[səup]	мыло
+shower	[‘ʃəuə]	душ
+sponge	[spʌnʤ]	губка
+comb	[kəum]	расчёска
+razor	[‘reɪzə]	бритва, брить
+dining room	[‘daɪnɪŋˌrum]	столовая
+buffet	[‘bʌfɪt]	буфет (для посуды)
+china	[‘ʧaɪnə]	фарфор
+bowl	[bəul]	чаша
+salad bowl	[‘sæləd bəul]	салатница
+tablecloth	[‘teɪblklɔθ]	скатерть
+saltshaker	[sɔːlt ‘ʃeɪkə]	солонка
+peppershaker	[‘pepəˌ ‘ʃeɪkə]	перечница
+teapot	[‘tiːpɔt]	чайник (для заварки)
+coffeepot	[‘kɔfɪpɔt]	кофейник
+sugar bowl	[‘ʃugə bəul]	сахарница
+plate	[pleɪt]	тарелка
+cup	[kʌp]	чашка
+saucer	[‘sɔːsə]	блюдце
+glass	[glɑːs]	стакан, бокал
+fork	[fɔːk]	вилка
+spoon	[spuːn]	ложка
+teaspoon	[‘tiːspuːn]	чайная ложка
+knife	[naɪf]	нож
+candlestick	[ˈkændlˌstɪk]	подсвечник
+candle	[ˈkændl]	свеча
+napkin	[‘næpkɪn]	салфетка
+bedroom	[‘bedruːm]	спальня
+bed	[bed]	кровать, постель
+mattress	[‘mætrəs]	матрац
+pillow	[‘pɪləu]	подушка
+pillowcase	[‘pɪləukeɪs]	наволочка
+sheet	[ʃiːt]	простыня
+blanket	[‘blæŋkɪt]	одеяло
+bedspread	[‘bedspred]	постельное покрывало
+duvet	[‘djuːveɪ]	пуховое одеяло
+quilt	[kwɪlt]	лоскутное одеяло
+nightstand	[naɪtstænd]	тумбочка
+alarm clock	[ə’lɑːmˌklɔk]	будильник
+dresser	[‘dresə]	комод с зеркалом
+mirror	[‘mɪrə]	зеркало
+curtain	[‘kɜ:tən]	занавеска
+window	[‘wɪndəu]	окно
+carpet	[‘kɑːpɪt]	ковёр
+picture	[‘pɪkʧə]	картина; рисунок
+casket	[‘kɑːskɪt]	шкатулка
+door	[dɔː]	дверь
+tableware	[‘teɪblweə]	посуда
+plate	[pleɪt]	тарелка
+bowl	[bəʊl]	миска
+cup	[kʌp]	чашка
+mug	[mʌg]	кружка
+spoon	[spuːn]	ложка
+fork	[fɔːk]	вилка
+knife	[naɪf]	нож
+glass	[glɑːs]	стакан
+saucepan	[‘sɔːspən]	кастрюля
+lid	[lɪd]	крышка
+ladle	[‘leɪdl]	черпак
+jug	[ʤʌg]	кувшин
+kettle	[‘ketl]	чайник
+coffeepot	[‘kɔfɪpɔt]	кофейник
+teapot	[‘tiːpɔt]	чайник (для заварки)
+frying pan	[‘fraɪɪŋˌpæn]	сковорода с ручкой
+pan	[pæn]	сковорода
+salt shaker	[sɔːlt ‘ʃeɪkə]	солонка
+pepper shaker	[‘pepəˌʃeɪkə]	перечница
+sugar bowl	[‘ʃugə bəul]	сахарница
+bottle	[‘bɔtl]	бутылка
+napkin	[‘næpkɪn]	салфетка
+kitchen	[ˈkɪtʃɪn]	кухня
+dishwasher	[‘dɪʃˌwɔʃə]	посудомоечная машина
+faucet	[‘fɔːsɪt]	водопроводный кран
+sink	[sɪŋk]	раковина
+sponge	[spʌnʤ]	губка
+towel	[‘tauəl]	полотенце
+cabinet	[‘kæbɪnət]	шкаф с ящиками
+microwave	[‘maɪkrə(u)weɪv]	микроволновая печь
+canister	[‘kænɪstə]	контейнер
+stove	[stəuv]	печь, печка
+burner	[‘bɜːnə]	конфорка
+oven	[‘ʌv(ə)n]	духовка
+potholder	[‘pɔthəuldə]	прихватка
+toaster	[‘təustə]	тостер
+cookbook	[‘kukbuk]	книга с рецептами
+refrigerator	[rɪ’frɪʤ(ə)reɪtə]	холодильник
+freezer	[‘friːzə]	морозильная камера
+table	[‘teɪbl]	стол
+chair	[ʧeə]	стул
+kitchenware	[‘kɪʧɪnweə]	кухонная посуда
+pail	[peɪl]	ведро
+housekeeping	[ˈhaʊskiːpɪŋ]	уборка
+broom	[bruːm]	веник, метла
+sweep	[swi:p]	подметать, мести
+dustpan	[ˈdʌs(t)pæn]	совок для мусора
+vacuum cleaner	[ˈvækjuːmˌkliːnə]	пылесос
+iron	[ˈaɪən]	утюг
+ironing board	[ˈaɪənɪŋbɔːd]	гладильная доска
+mop	[mɒp]	швабра
+rag	[ræɡ]	тряпка
+wipe	[waɪp]	протирать, мыть
+bleach	[bliːtʃ]	отбеливатель
+cleanser	[ˈklɛnzə]	моющее средство
+laundry	[ˈlɔːndrɪ]	стирка
+laundry detergent	[ˈlɔːndrɪ dɪˈtɜːdʒ(ə)nt]	стиральный порошок
+sponge	[spʌndʒ]	губка
+dust	[dʌst]	пыль, вытирать пыль
+bucket	[ˈbʌkɪt]	ведро
+air	[eər]	проветривать
+clothespin	[ˈkləʊðzpɪn]	прищепка
+trash can	[ˈtræʃˌkæn]	мусорное ведро
+empty	[’emptɪ]	опустошать, вытряхивать
+garbage	[’gɑ:rbɪdʒ]	мусор, отбросы
+dirt	[dɜ:rt]	грязь
+furniture	[‘fɜːnɪʧə]	мебель
+box	[bɔks]	шкаф
+bookcase	[‘bukkeɪs]	книжный шкаф
+cupboard	[‘kʌbəd]	буфет, сервант
+shelf	[ʃelf]	полка
+shelving	[‘ʃelvɪŋ]	стеллаж
+table	[‘teɪbl]	стол
+desk	[desk]	рабочий стол
+chair	[ʧeə]	стул; кресло
+sofa	[‘səufə]	диван
+bench	[benʧ]	скамья, лавка
+bed	[bed]	кровать
+stool	[stuːl]	табурет
+bureau	[bjuə’rəu]	комод (с зеркалом)
+mirror	[‘mɪrə]	зеркало
+lamp	[læmp]	лампа, светильник
+safe	[seɪf]	сейф, несгораемый шкаф
+interior	[ɪn’tɪərɪə]	интерьер
+hygiene	[‘haɪʤiːn]	гигиена
+care	[keə]	уход
+toothbrush	[‘tuːθbrʌʃ]	зубная щётка
+toothpaste	[‘tuːθpeɪst]	зубная паста
+soap	[səup]	мыло
+comb	[kəum]	расчёска
+razor	[‘reɪzə]	бритва, брить
+shaving cream	[‘ʃeɪvɪŋˌkriːm]	крем для бритья
+scissors	[‘sɪzəz]	ножницы
+tweezers	[‘twiːzəz]	пинцет, щипчики
+hairpin	[‘heəpɪn]	шпилька (для волос)
+shampoo	[ʃæm’puː]	шампунь
+towel	[ˈtaʊəl]	полотенце
+mouthwash	[ʹmaʋθwɒʃ]	жидкость для полоскания рта
+dental floss	[͵dentlʹflɒs]	зубная нить
+deodorant	[dɪ’əud(ə)r(ə)nt]	дезодорант
+perfume	[‘pɜːfjuːm]	духи
+cologne	[kə’ləun]	одеколон
+nail polish	[‘neɪlˌpɔlɪʃ]	лак для ногтей
+lipstick	[‘lɪpstɪk]	губная помада
+mascara	[mæ’skɑːrə]	тушь для ресниц
+health	[helθ]	здоровье
+an allergy	[‘æləʤɪ]	аллергия
+plaster	[‘plɑːstə]	пластырь
+a bloody nose	[‘blʌdɪ nəuz]	кровь из носа
+a broken arm	[‘brəuk(ə)n ɑːm]	сломанная рука
+a bruise	[bruːz]	синяк
+a bump	[bʌmp]	шишка
+a cough	[kɔf]	кашель
+a cut	[ə’kʌt]	порез
+a diarrhea	[ˌdaɪə’rɪə]	диарея
+a fever	[‘fiːvə]	жар
+a headache	[‘hedeɪk]	головная боль
+a loose tooth	[luːs tuːθ]	шатающийся зуб
+medicine	[‘medɪsɪn]	лекарство, медикамент
+a runny nose	[‘rʌnɪ nəuz]	насморк
+a scratch	[skræʧ]	царапина
+a shot	[hɔːs]	укол
+sick	[sɪk]	больной
+sneeze	[sniːz]	чиханье
+a stomachache	[‘stʌməkeɪk]	боль в животе
+a sunburn	[‘sʌnˌbɜːn]	солнечный ожог
+thermometer	[θə’mɔmɪtə]	градусник
+throw up	[θrəu up]	тошнота
+toothache	[‘tuːθeɪk]	зубная боль
+town	[taun]	город
+city	[ˈsɪtɪ]	город (большой)
+building	[ˈbɪldɪŋ]	здание, строение
+skyscraper	[ˈskaɪˌskreɪpə]	небоскреб
+palace	[ˈpælɪs]	дворец
+bank	[‘bɑnk]	банк
+bookstore	[‘bukstɔː]	книжный магазин
+bus stop	[bʌs stɔp]	автобусная остановка
+confectionery	[kənˈfɛkʃən(ə)rɪ]	кондитерская
+bakery	[‘beɪkərɪ]	булочная, пекарня
+coffee shop	[‘kɔfɪˌʃɔp]	кафе
+cafe	[ˈkæfeɪ]	кафе
+restaurant	[ˈrɛst(ə)rɒnt]	ресторан
+drugstore	[‘drʌgstɔː]	аптека
+pharmacy	[ˈfɑːməsɪ]	аптека
+dentist’s office	[‘dentɪstz ‘ɔfɪs]	зубной кабинет
+doctor’s office	[‘dɔktəz ‘ɔfɪs]	врачебный кабинет
+hospital	[‘hɔspɪt(ə)l]	больница
+flower’s shop	[‘flauə ʃɔp]	цветочный магазин
+gas station	[gæs ‘steɪʃ(ə)n]	автозаправочная станция
+library	[‘laɪbr(ə)rɪ]	библиотека
+theatre	[ˈθɪətə]	театр
+cinema	[ˈsɪnɪmə]	кинотеатр
+museum	[mjuːˈzɪəm]	музей
+church	[tʃɜːtʃ]	церковь
+park	[pɑːk]	парк
+pool	[puːl]	бассейн
+post office	[pəust ‘ɔfɪs]	почта
+hotel	[həʊˈtɛl]	гостиница
+university	[ˌjuːnɪˈvɜːsɪtɪ]	университет
+school	[skuːl]	школа
+supermarket	[‘s(j)uːpəˌmɑːkɪt]	супермаркет
+store	[stɔː]	магазин
+train station	[treɪn ‘steɪʃ(ə)n]	железнодорожный вокзал
+underground	[ˌʌndəˈɡraʊnd]	метро
+street	[striːt]	улица
+avenue	[ˈævɪnjuː]	проспект
+square	[skwɛə]	площадь
+alley	[ˈælɪ]	аллея
+area	[ˈɛ(ə)rɪə]	район
+map	[mæp]	карта
+sea	[siː]	море
+ocean	[‘əuʃ(ə)n]	океан
+abyss	[ə’bɪs]	бездна
+coral	[‘kɔrəl]	коралл
+seal	[siːl]	тюлень
+crocodile	[‘krɔkədaɪl]	крокодил
+alligator	[ˈælɪɡeɪtə]	аллигатор
+fish	[fɪʃ]	рыба
+trout	[traʊt]	форель
+bass	[bæs]	окунь
+salmon	[ˈsæmən]	лосось
+flounder	[ˈflaʊndə]	камбала
+swordfish	[ˈsɔːdˌfɪʃ]	рыба-меч
+eel	[iːl]	угорь
+otter	[ˈɒtə]	выдра
+walrus	[ˈwɔːlrəs]	морж
+mussel	[ˈmʌs(ə)l]	мидия
+snail	[sneɪl]	улитка
+shrimp	[ʃrɪmp]	креветка
+oyster	[‘ɔɪstə]	устрица
+lobster	[‘lɔbstə]	омар
+crab	[kræb]	краб
+crayfish	[‘kreɪfɪʃ]	речной рак
+shark	[ʃɑːk]	акула
+jellyfish	[‘ʤelɪfɪʃ]	медуза
+sea urchin	[‘siːˌɜːʧɪn]	морской ёж
+whale	[(h)weɪl]	кит
+frog	[frɔg]	лягушка
+tadpole	[ˈtædpəʊl]	головастик
+tortoise	[ˈtɔːtəs]	черепаха
+turtle	[‘tɜːtl]	черепаха
+dolphin	[‘dɔlfɪn]	дельфин
+sea snake	[‘siːˌsneɪk]	морская змея
+mollusc	[‘mɔləsk]	моллюск
+shellfish	[‘ʃelfɪʃ]	ракообразное
+seafood	[‘siːfuːd]	морепродукты
+octopus	[‘ɔktəpəs]	осьминог
+cachalot	[‘kæʃəlɔt]	кашалот
+starfish	[ˈstɑːˌfɪʃ]	морская звезда
+material	[məˈtɪ(ə)rɪəl]	материал
+stone	[stəʊn]	камень
+concrete	[ˈkɒŋkriːt]	бетон
+brick	[brɪk]	кирпич
+metal	[mɛtl]	металл
+rubber	[ˈrʌbə]	резина
+glass	[ɡlɑːs]	стекло
+wood	[wʊd]	древесина
+plastic	[ˈplæstɪk]	пластик
+paper	[ˈpeɪpə]	бумага
+carton	[ˈkɑːtɪn]	картон
+gypsum	[ˈdʒɪp|s(ə)m]	гипс
+clay	[kleɪ]	глина
+leather	[ˈlɛðə]	кожа
+cloth	[klɒθ]	ткань
+wool	[wʊl]	шерсть
+silk	[sɪlk]	шелк
+sun	[sʌn]	солнце
+sunset	[‘sʌnset]	заход солнца, закат
+sunrise	[‘sʌnraɪz]	рассвет, восход солнца
+dew	[djuː]	роса
+waterfall	[‘wɔːtəfɔːl]	водопад
+rain	[reɪn]	дождь
+lightning	[‘laɪtnɪŋ]	молния
+thunder	[‘θʌndə]	гром, грохотать
+rainbow	[‘reɪnbəu]	радуга
+sky	[skaɪ]	небеса, небо
+cloud	[klaud]	облако, туча
+snow	[snəu]	снег
+ice	[aɪs]	лёд
+icicle	[‘aɪsɪkl]	сосулька
+hoarfrost	[‘hɔːfrɔst]	иней, изморозь
+eclipse	[ɪ’klɪps]	затмение
+flood	[flʌd]	наводнение, потоп
+earthquake	[‘ɜːθkweɪk]	землетрясение
+wind	[wɪnd]	ветер
+storm	[stɔːm]	ураган, шторм
+nature	[‘neɪʧə]	природа
+beach	[biːʧ]	берег, пляж
+coast	[kəust]	морское побережье
+desert	[‘dezət]	пустыня
+glacier	[‘glæsɪə]	ледник
+forest	[‘fɔrɪst]	лес
+field	[fiːld]	поле, луг
+canyon	[ˈkænjən]	каньон
+island	[ˈaɪlənd]	остров
+jungle	[‘ʤʌŋgl]	джунгли, дебри
+lake	[leɪk]	озеро
+mountain	[‘mauntɪn]	гора
+hill	[hɪl]	холм, возвышенность
+plain	[pleɪn]	равнина
+hollow	[‘hɔləu]	низина, впадина
+pond	[pɔnd]	пруд
+rock	[rɔk]	скала, камень
+ocean	[‘əuʃ(ə)n]	океан
+sea	[siː]	море
+river	[‘rɪvə]	река
+weather	[‘weðə]	погода
+sunny	[‘sʌnɪ]	солнечный
+rain	[reɪn]	дождь
+cold	[kəuld]	холод
+wind	[wɪnd]	ветер
+heat	[hiːt]	жара
+mist	[mɪst]	лёгкий туман
+fog	[fɔg]	туман
+snow	[snəu]	снег
+cool	[kuːl]	прохладный
+shower	[‘ʃauə]	ливень
+lightning	[‘laɪtnɪŋ]	молния
+breeze	[briːz]	лёгкий ветерок
+rainfall	[‘reɪnfɔːl]	осадки
+snowfall	[‘snəufɔːl]	снегопад
+hail	[heɪl]	град
+bright	[braɪt]	ясный, погожий
+hot	[hɔt]	жаркий
+windy	[‘wɪndɪ]	ветреный
+cloudy	[‘klaudɪ]	облачный
+rainy	[‘reɪnɪ]	дождливый
+chilly	[‘ʧɪlɪ]	прохладный
+frosty	[‘frɔstɪ]	морозный
+temperature	[ˈtɛmp(ə)rətʃə]	температура
+bird	[bɜːd]	птица
+robin	[ˈrɒbɪn]	дрозд
+jay	[dʒeɪ]	сойка
+hummingbird	[ˈhʌmɪŋbɜːd]	колибри
+pheasant	[ˈfɛz(ə)nt]	фазан
+crow	[krəʊ]	ворона, ворон
+flamingo	[flə’mɪŋgəu]	фламинго
+seagull	[ˈsiːɡʌl]	чайка
+sparrow	[ˈspærəʊ]	воробей
+woodpecker	[ˈwʊdˌpɛkə]	дятел
+swallow	[ˈswɒləʊ]	ласточка
+pigeon	[ˈpɪdʒɪn]	голубь
+owl	[aʊl]	сова, филин
+hawk	[hɔːk]	сокол
+eagle	[ˈiːɡ(ə)l]	орел
+canary	[kæˈnɛ(ə)rɪ]	канарейка
+cuckoo	[ˈkʊkuː]	кукушка
+cockatoo	[ˌkɒkə|ˈtuː]	какаду
+parrot	[ˈpærət]	попугай
+parakeet	[ˈpærəkiːt]	попугай
+duck	[dʌk]	утка
+goose	[ɡuːs]	гусь
+chicken	[‘ʧɪkɪn]	курица
+swan	[swɒn]	лебедь
+crane	[kreɪn]	журавль, цапля
+stork	[stɔːk]	аист
+pelican	[ˈpɛlɪkən]	пеликан
+peacock	[ˈpiːkɒk]	павлин
+penguin	[ˈpɛŋɡwɪn]	пингвин
+ostrich	[ˈɒstrɪtʃ]	страус
+insect	[ˈɪnsɛkt]	насекомое
+fly	[flaɪ]	муха
+mosquito	[məˈskiːt|əʊ]	комар
+flea	[fliː]	блоха
+firefly	[ˈfaɪəflaɪ]	светлячок
+moth	[mɒθ]	моль
+dragonfly	[ˈdræɡ(ə)nflaɪ]	стрекоза
+spider	[ˈspaɪdə]	паук
+ladybug	[ˈleɪdɪbʌɡ]	божья коровка
+wasp	[wɒsp]	оса
+tick	[tɪk]	клещ
+bee	[biː]	пчела
+caterpillar	[ˈkætəˌpɪlə]	гусеница
+butterfly	[ˈbʌtəflaɪ]	бабочка
+ant	[ænt]	муравей
+grasshopper	[ˈɡrɑːsˌhɒpə]	кузнечик
+beetle	[ˈbiːtl]	жук
+termite	[ˈtɜːmaɪt]	термит
+roach	[rəʊtʃ]	таракан
+scorpion	[ˈskɔːpɪən]	скорпион
+centipede	[ˈsɛntɪpiːd]	многоножка
+mantis	[ˈmæntɪs]	богомол
+cricket	[ˈkrɪkɪt]	сверчок
+bug	[bʌɡ]	жук
+snail	[sneɪl]	улитка
+worm	[wɜːm]	червяк
+flower	[ˈflaʊə]	цветок
+rose	[rəʊz]	роза
+tulip	[ˈtjuːlɪp]	тюльпан
+carnation	[kɑːˈneɪʃ(ə)n]	гвоздика
+gladiolus	[ˈɡlædɪˈəʊləsɪz]	гладиолус
+lily	[ˈlɪlɪ]	лилия
+orchid	[ˈɔːkɪd]	орхидея
+peony	[ˈpiːənɪ]	пион
+daisy	[ˈdeɪzɪ]	маргаритка
+violet	[ˈvaɪəlɪt]	фиалка
+lotus	[ˈləʊtəs]	лотос
+sunflower	[ˈsʌnˌflaʊə]	подсолнух
+snowdrop	[ˈsnəʊdrɒp]	подснежник
+narcissus	[nɑːˈsɪsəsɪz]	нарцисс
+daffodil	[ˈdæfədɪl]	желтый нарцисс
+dahlia	[ˈdeɪljə]	георгина
+iris	[ˈaɪ(ə)rɪs]	ирис
+poppy	[ˈpɒpɪ]	мак
+crocus	[ˈkrəʊkəs]	крокус
+dandelion	[ˈdændɪlaɪən]	одуванчик
+lavender	[ˈlævɪndə]	лаванда
+camellia	[kəˈmiːlɪə]	камелия
+bouquet	[buːˈkeɪ-]	букет
+tree	[triː]	дерево
+forest	[‘fɔrɪst]	лес
+oak	[əʊk]	дуб
+birch	[bɜːtʃ]	береза
+pine	[paɪn]	сосна
+poplar	[ˈpɒplə]	тополь
+fir	[fɜː]	ель
+ash	[æʃ]	ясень
+linden	[ˈlɪndən]	липа
+maple	[ˈmeɪp(ə)l]	клён
+willow	[ˈwɪləʊ]	ива
+chestnut	[ˈtʃɛsnʌt]	каштан
+palm	[pɑːm]	пальма
+larch	[lɑːtʃ]	лиственница
+juniper	[ˈdʒuːnɪpə]	можжевельник
+beech	[biːtʃ]	бук
+redwood	[ˈrɛdwʊd]	красное дерево
+wood	[wʊd]	древесина
+trunk	[trʌŋk]	ствол
+branch	[brɑːntʃ]	ветка
+root	[ruːt]	корень
+leaf	[liːf]	лист
+bark	[bɑːk]	кора
+log	[lɒɡ]	бревно
+cone	[kəʊn]	шишка
+ash	[æʃ]	зола, пепел
+transport	[ˌtræn(t)spɔː’t]	транспорт
+airplane	[‘eəpleɪn]	самолёт
+ambulance	[‘æmbjələn(t)s]	машина скорой помощи
+bus	[bʌs]	автобус
+car	[kɑː]	автомобиль
+truck	[trʌk]	грузовой автомобиль
+fire truck	[‘faɪə trʌk]	пожарная машина
+helicopter	[‘helɪkɔptə]	вертолёт
+motorcycle	[‘məutəˌsaɪkl]	мотоцикл
+overpass	[‘əuvə pɑːs]	эстакада, переход
+police car	[pə’liːs kɑː]	полицейский автомобиль
+road	[rəud]	дорога, шоссе
+boat	[bəʊt]	лодка, шлюпка
+sailboat	[‘seɪlbəut]	парусник
+ship	[ʃɪp]	корабль
+street	[striːt]	улица
+submarine	[ˌsʌbm(ə)’riːn]	подводная лодка
+subway	[‘sʌbweɪ]	тоннель
+tractor	[‘træktə]	трактор
+traffic light	[‘træfɪk ‘laɪt]	светофор
+train	[treɪn]	поезд
+train crossing	[treɪn ‘krɔsɪŋ]	железнодорожный переезд
+van	[væn]	фургон
+scooter	[ˈskuːtə]	скутер, самокат
+bicycle	[ˈbaɪsɪk(ə)l]	велосипед
+airport	[ˈɛəpɔːt]	аэропорт
+airplane	[ˈɛəpleɪn]	самолет
+wing	[wɪŋ]	крыло
+tail	[teɪl]	хвост
+cockpit	[ˈkɒkpɪt]	кабина (самолета)
+cabin	[ˈkæbɪn]	салон (самолета)
+fuselage	[ˈfjuːz(ə)lɑːʒ]	корпус, фюзеляж
+undercarriage	[ˈʌndəˌkærɪdʒ]	шасси
+lavatory	[ˈlævət(ə)rɪ]	туалет
+window	[ˈwɪndəʊ]	окно
+aisle	[aɪl]	проход
+seat	[siːt]	сиденье, место
+armrest	[ˈɑːmrɛst]	подлокотник
+ticket	[ˈtɪkɪt]	билет
+suitcase	[ˈs(j)uːtkeɪs]	чемодан
+backpack	[ˈbækpæk]	рюкзак
+baggage	[ˈbæɡɪdʒ]	багаж
+life vest	[ˈlaɪfvɛst]	спасательный жилет
+carry-on	[ˈkærɪɒn]	ручная кладь
+flight	[flaɪt]	рейс
+takeoff	[ˈteɪkɒf]	взлет
+landing	[ˈlændɪŋ]	посадка, приземление
+runway	[ˈrʌnweɪ]	взлетно-посадочная полоса
+gate	[ɡeɪt]	вход / выход (в аэропорту)
+boarding	[ˈbɔːdɪŋ]	посадка (на борт)
+passenger	[ˈpæs(ə)ndʒə]	пассажир
+passport	[ˈpɑːspɔːt]	паспорт
+visa	[ˈviːzə]	виза
+customs	[ˈkʌstəmz]	таможня
+terminal	[ˈtɜːmɪn(ə)l]	терминал
+schedule	[ˈʃɛdjuːl]	расписание
+security guard	[sɪˈkjʊərɪtɪˌɡɑːd]	охранник
+trolley	[ˈtrɒlɪ]	тележка
+liquid	[ˈlɪkwɪd]	жидкость
+hijack	[ˈhaɪdʒæk]	угон самолета
+emergency	[ɪˈmɜːdʒ(ə)n(t)sɪ]	авария
+delay	[dɪˈleɪ]	задержка
+destination	[ˌdɛstɪˈneɪʃ(ə)n]	место назначения
+school	[skuːl]	школа
+backpack	[‘bækpæk]	рюкзак
+blackboard	[‘blækbɔːd]	классная доска
+chair	[ʧeə]	стул
+chalk	[ʧɔːk]	мел
+classroom	[‘klɑːsrum]	класс
+clock	[klɔk]	часы
+desk	[desk]	парта
+eraser	[ɪ’reɪzə]	ластик
+glue	[gluː]	клей
+locker	[‘lɔkə]	запирающийся шкафчик
+marker	[‘mɑːkə]	маркер
+pen	[pen]	ручка
+pencil	[‘pen(t)s(ə)l]	карандаш
+pencil case	[‘pen(t)s(ə)lˌkeɪs]	пенал
+sharpener	[ʃɑːp(ə)nə]	точилка
+ruler	[‘ruːlə]	линейка
+globe	[ɡləʊb]	глобус
+map	[mæp]	карта
+scissors	[‘sɪzəz]	ножницы
+tape	[teɪp]	клейкая лента
+teacher	[‘tiːʧə]	учитель
+headmaster	[ˌhɛdˈmɑːstə]	директор школы
+pupil	[ˈpjuːp(ə)l]	ученик
+student	[ˈstjuːd(ə)nt]	студент
+textbook	[‘tekstbuk]	учебник
+notebook	[‘nəutbuk]	тетрадь
+paper	[ˈpeɪpə]	бумага
+lesson	[ˈlɛs(ə)n]	урок, занятие
+geography	[dʒɪˈɒɡrəfɪ]	география
+biology	[baɪˈɒlədʒɪ]	биология
+chemistry	[ˈkɛmɪstrɪ]	химия
+history	[ˈhɪst(ə)rɪ]	история
+mathematics	[ˌmæθɪˈmætɪks]	математика
+physics	[ˈfɪɪzɪks]	физика
+music	[ˈmjuːzɪk]	музыка
+drawing	[ˈdrɔːɪŋ]	рисование
+bell	[bɛl]	звонок
+break	[breɪk]	перемена
+education	[ˌɛdjʊˈkeɪʃ(ə)n]	образование
+curriculum	[kəˈrɪkjʊləm]	учебный план
+examination	[ɪɡˌzæmɪˈneɪʃ(ə)n]	экзамен
+exam	[ɪɡˈzæm]	экзамен
+mark	[mɑːk]	оценка
+test	[tɛst]	контрольная работа
+semester	[sɪˈmɛstə]	семестр
+timetable	[ˈtaɪmˌteɪb(ə)l]	расписание
+holiday	[ˈhɒlɪdɪ]	каникулы
+clothes	[kləuðz]	одежда
+blouse	[blauz]	блузка
+skirt	[skɜːt]	юбка
+dress	[dres]	платье
+shirt	[ʃɜːt]	рубашка
+trousers	[‘trauzəz]	брюки
+socks	[sɔk]	носки
+stockings	[ˈstɒkɪŋz]	чулки
+tights	[taɪts]	колготки
+swimsuit	[ˈswɪmˌsuːt]	купальник
+underpants	[‘ʌndəpænts]	нижнее белье
+sweater	[‘swetə]	свитер
+cardigan	[ˈkɑːdɪɡən]	шерстяная кофта
+jersey	[ˈdʒɜːzɪ]	вязаный свитер
+suit	[s(j)uːt]	костюм
+jeans	[ʤiːnz]	джинсы
+shorts	[ʃɔːts]	шорты
+T-shirt	[‘tiːʃɜːt]	футболка
+cap	[ˈkæp]	кепка
+hat	[hæt]	шляпа
+shoes	[ʃuːz]	туфли
+boots	[buːts]	ботинки
+sneakers	[‘sniːkəz]	кроcсовки
+slippers	[ˈslɪpəz]	тапочки
+sandals	[ˈsænd(ə)lz]	сандали
+jacket	[‘ʤækɪt]	куртка
+coat	[kəut]	пальто
+raincoat	[ˈreɪnkəʊt]	плащ
+fur coat	[fɜː kəʊt]	шуба
+belt	[belt]	ремень
+tie	[taɪ]	галстук
+glove	[ɡlʌv]	перчатка
+scarf	[skɑːf]	шарф
+nightie	[ˈnaɪtɪ]	ночнушка
+pyjama	[pəˈdʒɑːmə]	пижама
+tracksuit	[ˈtræks(j)uːt]	спортивный костюм
+anorak	[ˈæn(ə)ræk]	куртка с капюшоном
+dungarees	[daŋgəˈriːz]	рабочие штаны
+umbrella	[ʌmˈbrɛlə]	зонт
+watch	[wɒtʃ]	часы
+earring	[ˈɪərɪŋ]	сережка
+ring	[rɪŋ]	кольцо
+necklace	[ˈnɛkləs]	колье
+bracelet	[ˈbreɪslɪt]	браслет
+glasses	[ˈɡlɑːsɪz]	очки
+textile	[ˈtɛkstaɪl]	текстиль, ткань
+cotton	[ˈkɒtn]	хлопок
+fur	[fɜː]	мех
+silk	[sɪlk]	шелк
+synthetic	[sɪnˈθɛtɪk]	синтетика
+velours	[vəˈlʊə]	велюр
+velvet	[ˈvɛlvɪt]	бархат
+viscose	[ˈvɪskəʊs]	вискоза
+suede	[sweɪd]	замша
+chamois	[ˈʃæmwɑ]	замша
+stockinet	[ˌstɒkɪˈnɛt]	трикотаж
+sateen	[səˈtiːn]	сатин
+nylon	[ˈnaɪlɒn]	нейлон
+mink	[mɪŋk]	норка
+leather	[ˈlɛðə]	кожа
+lace	[leɪs]	кружево
+gauze	[ɡɔːz]	марля
+crochet	[ˈkrəʊʃeɪ]	вязаная (крючком)
+chiffon	[ˈʃɪfɒn]	шифон
+chinchilla	[tʃɪnˈtʃɪlə]	шиншилловый мех
+cashmere	[ˈkæʃmɪə]	кашемир
+cambric	[ˈkeɪmbrɪk]	батист
+flax	[flæks]	льняная ткань
+woollen	[ˈwʊl(ə)n]	шерстяная ткань
+jean	[dʒiːn]	джинсовая ткань
+space	[speɪs]	пространство; космос
+planet	[‘plænɪt]	планета
+star	[stɑː]	звезда; светило
+Sun	[sʌn]	Солнце
+Mercury	[‘mɜːkj(ə)rɪ]	Меркурий
+Venus	[‘viːnəs]	Венера
+Earth	[ɜːθ]	Земля
+Mars	[mɑːz]	Марс
+Jupiter	[‘ʤuːpɪtə]	Юпитер
+Saturn	[‘sætən]	Сатурн
+Uranus	[‘juər(ə)nəs]	Уран
+Neptune	[‘neptjuːn]	Нептун
+satellite	[‘sæt(ə)laɪt]	спутник
+moon	[muːn]	луна
+comet	[‘kɔmɪt]	комета
+asteroid	[‘æst(ə)rɔɪd]	астероид
+meteorite	[‘miːtɪ(ə)raɪt]	метеорит
+spaceship	[‘speɪsʃɪp]	космический корабль
+cosmonaut	[‘kɔzmənɔːt]	космонавт
+astronaut	[‘æstrənɔːt]	астронавт
+constellation	[ˌkɔn(t)stə’leɪʃ(ə)n]	созвездие
+Aries	[‘eəriːz]	Овен
+Taurus	[‘tɔːrəs]	Телец
+Gemini	[‘ʤemɪnaɪ]	Близнецы
+Cancer	[‘kæn(t)sə]	Рак
+Leo	[‘liːəu]	Лев
+Virgo	[‘vɜːgəu]	Дева
+Libra	[‘liːbrə]	Весы
+Scorpio	[‘skɔːpɪəu]	Скорпион
+Sagittarius	[ˌsæʤɪ’teərɪəs]	Стрелец
+Capricorn	[‘kæprɪkɔːn]	Козерог
+Aquarius	[ə’kweərɪəs]	Водолей
+Pisces	[‘paɪsiːz]	Рыбы
+element	[‘elɪmənt]	стихия
+fire	[‘faɪə]	огонь
+earth	[ɜːθ]	земля
+air	[eə]	воздух
+water	[‘wɔːtə]	вода
+sport	[spɔːt]	спорт
+football	[‘futbɔːl]	футбол
+soccer	[‘sɔkə]	футбол
+basketball	[‘bɑːskɪtbɔːl]	баскетбол
+volleyball	[‘vɔlɪbɔːl]	волейбол
+baseball	[‘beɪsbɔːl]	бейсбол
+hockey	[‘hɔkɪ]	хоккей
+badminton	[‘bædmɪntən]	бадминтон
+tennis	[‘tenɪs]	теннис
+rugby	[‘rʌgbɪ]	регби
+golf	[gɔlf]	гольф
+billiards	[‘bɪlɪədz]	бильярд
+swimming	[‘swɪmɪŋ]	плавание
+biathlon	[baɪ’æθlən]	биатлон
+wrestling	[‘reslɪŋ]	борьба
+gymnastics	[ʤɪm’næstɪks]	гимнастика
+fencing	[‘fen(t)sɪŋ]	фехтование
+race	[reɪs]	гонка
+polo	[‘pəuləu]	поло
+bowling	[‘bəulɪŋ]	боулинг
+profession	[prəˈfɛʃ(ə)n]	профессия
+teacher	[ˈtiːtʃə]	учитель
+interpreter	[ɪnˈtɜːprɪtə]	переводчик
+waiter	[ˈweɪtə]	официант
+taxi driver	[ˈtæksɪˌdraɪvə]	таксист
+driver	[ˈdraɪvə]	водитель
+engineer	[ˌɛndʒɪˈnɪə]	инженер
+lawyer	[ˈlɔːjə]	юрист, адвокат
+accountant	[əˈkaʊntənt]	бухгалтер
+manager	[ˈmænɪdʒə]	управляющий, менеджер
+consultant	[kənˈsʌlt(ə)nt]	консультант, советник
+administrator	[ədˈmɪnɪstreɪtə]	администратор, руководитель
+economist	[ɪˈkɒnəmɪst]	экономист
+financier	[f(a)ɪˈnænsɪə]	финансист
+builder	[ˈbɪldə]	строитель
+nurse	[nɜːs]	медсестра
+secretary	[ˈsɛkrət(ə)rɪ]	секретарь
+vet	[vɛt]	ветеринар
+scientist	[ˈsaɪəntɪst]	ученый
+dentist	[ˈdɛntɪst]	зубной врач
+writer	[ˈraɪtə]	писатель
+musician	[mjuːˈzɪʃ(ə)n]	музыкант
+actor	[ˈæktə]	актер
+artist	[ˈɑːtɪst]	художник
+singer	[ˈsɪŋə]	певец
+stylist	[ˈstaɪlɪst]	стилист
+barber	[ˈbɑːbə]	парикмахер (муж)
+hairdresser	[ˈhɛəˌdrɛsə]	парикмахер (жен)
+photographer	[fəˈtɒɡrəfə]	фотограф
+journalist	[ˈdʒɜːn(ə)lɪst]	журналист
+composer	[kəmˈpəʊzə]	композитор
+courier	[ˈkʊrɪə]	курьер
+shop assistant	[ˈʃɒpəˌsɪstənt]	продавец
+guide	[ɡaɪd]	экскурсовод
+designer	[dɪˈzaɪnə]	конструктор, проектировщик
+programmer	[ˈprəʊɡræmə]	программист
+architect	[ˈɑːkɪtɛkt]	архитектор
+coach	[kəʊtʃ]	тренер
+athlete	[ˈæθliːt]	спортсмен
+barman	[ˈbɑːmən]	бармен
+bodyguard	[ˈbɒdɪɡɑːd]	телохранитель
+cashier	[kəˈʃɪə]	кассир
+cleaner	[ˈkliːnə]	уборщица
+cook	[kʊk]	повар
+electrician	[ɪˌlɛkˈtrɪʃ(ə)n]	электрик
+plumber	[ˈplʌmə]	сантехник
+librarian	[lʌɪˈbrɛːrɪən]	библиотекарь
+doctor	[ˈdɒktə]	доктор, врач
+policeman	[-pəˈliːsmən]	полицейский
+fireman	[-ˈfaɪəmən]	пожарный
+military (man)	[ˈmɪlɪt(ə)rɪ]	военнослужащий
+politician	[ˌpɒlɪˈtɪʃ(ə)n]	политик
+postman	[-ˈpəʊstmən]	почтальон
+priest	[priːst]	священник
