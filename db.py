@@ -45,8 +45,10 @@ def Restart_ordinary_words(message):
     user_id = int(message.chat.id)
     sql.execute(f"UPDATE users SET number_ordinary_words = {0} WHERE id = '{user_id}'")
     db.commit()
+    bot.send_message(message.chat.id, 'Ваши результаты по Ordinary words обнулены')
 
 def Restart_Irregular_verbs(message):
     user_id = int(message.chat.id)
     sql.execute(f"UPDATE users SET number_Irregular_verbs = {0} WHERE id = '{user_id}'")
     db.commit()
+    bot.send_message(message.chat.id, 'Ваши результаты по Irregular verbs обнулены')

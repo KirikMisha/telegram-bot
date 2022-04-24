@@ -32,7 +32,7 @@ def ordinary_words(message):
                                       'Оптимальным вариантом будет учить по 5-10 слов в день,'
                                       ' однако главным в этом деле, учить хотя бы одно слово-это уже прогресс.\n'
                                       'p.s. ( при выборе желаемого количества слов напиши в чат 📗 *пробел* цифра)\n'
-                                      'p.p.s. (если хочешь начать с самого начала вбей команду: 📗 *пробел* Restart)'
+                                      'p.p.s. (если хочешь начать с самого начала вбей команду: 📗 Restart)'
                                       '', reply_markup=markup)
 def Irregular_verbs(message):
     markup = types.ReplyKeyboardMarkup()
@@ -46,6 +46,7 @@ def Irregular_verbs(message):
                                       'Оптимальным вариантом будет учить по 5-10 слов в день,'
                                       ' однако главным в этом деле, учить хотя бы одно слово-это уже прогресс.\n'
                                       'p.s. ( при выборе желаемого количества слов напиши в чат 📕 *пробел* цифра)'
+                                      'p.p.s. (если хочешь начать с самого начала вбей команду: 📕 Restart)'
                                       '', reply_markup=markup)
 def number_ordinary_words(message):
     if message.text.replace('📗 ', '').isdigit():
@@ -55,6 +56,11 @@ def number_ordinary_words(message):
         while i < number:
             i = i + 1
             bot.send_message(message.chat.id, words[i])
+            if i == 1415:
+                bot.send_message(message.chat.id, 'Молодец, ты выучил весь Английский )')
+                bot.send_photo(message.chat.id,'https://i.ytimg.com/vi/wtotH1lrFQA/maxresdefault.jpg')
+                Restart_ordinary_words(message)
+                break
     else:
         bot.send_message(message.chat.id, 'Enter a number\n'
                                           'Example:📗 [number]')
@@ -67,6 +73,11 @@ def number_Irregular_verbs(message):
         while i < number:
             i = i + 1
             bot.send_message(message.chat.id, Iwords[i])
+            if i == 119:
+                bot.send_message(message.chat.id, 'Молодец, ты выучил весь Английский )')
+                bot.send_photo(message.chat.id, 'http://risovach.ru/upload/2014/03/mem/forever-alone_46449071_orig_.jpg')
+                Restart_Irregular_verbs(message)
+                break
     else:
         bot.send_message(message.chat.id, 'Enter a number\n'
                                           'Example:📗 [number]')
