@@ -10,3 +10,6 @@ def Game(message):
     item3 = types.KeyboardButton('⬅ Back')
     markup.add(item1, item2, item3)
     bot.send_message(message.chat.id, 'описание раздела игр', reply_markup=markup)
+
+def word_game(message):
+    pass

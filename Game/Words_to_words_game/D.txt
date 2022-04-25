@@ -1,0 +1,96 @@
+damage	вред, повреждение
+damage 	повреждать, портить
+damp	влажный, сырой
+dance	танец
+dance	танцевать
+danger	опасность
+dangerous	опасный
+dare	осмеливаться, сметь
+dark	темный
+date	дата
+day	день
+dead	мертвый
+deaf	глухой
+deal	сделка, соглашение
+dear	 дорогой, милый
+debt	долг
+decide	решать (ся), принимать решение
+decision	решение
+declaration	декларация
+declare	заявлять, заявлять
+deep	глубокий
+deep	глубоко
+defeat	одержать победу
+defend	защищать (ся)
+definite	ясный, точный
+degree	степень, градус
+deliberate	намеренный, предумышленный
+deliberately	сознательно,обдуманно
+delicate	нежный
+delight	удовлетворение, удовольствие
+deliver	доставлять, разносить
+demand	требовать
+demonstrate	показывать, демонстрировать
+depend	зависеть, находиться в зависимости
+describe	описывать
+description	описание
+deserve	заслуживать
+design	проект, намерение, дизайн
+design	разрабатывать, проектировать
+desperate	безнадежный; бесперспективный
+destroy	разрушать, ликвидировать
+detail	деталь
+determined	решительный
+develop	развивать (ся)
+development	развитие
+die	умереть, скончаться
+difference	разница, отличие
+different	различный, разный
+difficult	трудный, сложный
+difficulty	трудность
+dig	копать, рыть
+dinner	обед
+direct	прямой
+direct	руководить, направлять
+direction	направление
+disagree	не совпадать, противоречить
+disappear	исчезать
+disappointed	разочарованный
+disapprove	осуждать, не одобрять
+discover	обнаруживать, открывать
+discovery	открытие
+discuss	обсуждать
+discussion	дискуссия
+disgusting	противный
+dish	блюдо
+display	показ, выставка
+distance	расстояние, дистанция
+distant	дальний, далекий
+disturb	беспокоить, волновать
+disturbing	беспокоящий, волнующий
+divide	отделять (ся), разъединять (ся)
+division	деление, разделение
+do	делать
+doctor	врач, доктор
+door	дверь
+doubt	сомнение
+doubt	сомневаться
+down	вниз, внизу
+downstairs	расположенный в нижнем этаже, вниз
+draw	рисовать
+drawing	рисунок, рисование
+dream	сон, мечта
+dream	сниться, мечтать
+dress	платье, одежда
+dress	одевать (ся), наряжать (ся)
+drink	напиток, глоток
+drink	пить
+drive	езда
+drive	везти, ездить, управлять (автомобил)
+drop	капля, падение
+drop	ронять, падать
+dry	сухой
+dry	сушить (ся), сохнуть
+dull	скучный, тупой
+during	в течение, во время
+duty	обязанность
