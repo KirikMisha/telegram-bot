@@ -1,0 +1,9 @@
+year	год
+yes	да
+yesterday	вчера
+yet	еще, уже
+you	ты, вы
+young	молодой, юный
+your	ваш, твой
+yours	ваш, твой
+yourself	себя, себе, сам
