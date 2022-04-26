@@ -22,13 +22,13 @@ async def Base(message: types.Message):
         db.commit()
 
 
-# def Plass(message, a):
-#     user_id = int(message.chat.id)
-#     for i in sql.execute(f"SELECT number_ordinary_words FROM users WHERE id = '{user_id}'"):
-#         balance = i[0]
-#     sql.execute(f"UPDATE users SET number_ordinary_words = {balance + a} WHERE id = '{user_id}'")
-#     db.commit()
-#     return balance
+def Plass(message, a):
+    user_id = int(message.chat.id)
+    for i in sql.execute(f"SELECT number_ordinary_words FROM users WHERE id = '{user_id}'"):
+        balance = i[0]
+    sql.execute(f"UPDATE users SET number_ordinary_words = {balance + a} WHERE id = '{user_id}'")
+    db.commit()
+    return balance
 #
 #
 # def PlassI(message, a):
@@ -49,11 +49,11 @@ async def Base(message: types.Message):
 #     return balance
 #
 #
-# def Restart_ordinary_words(message):
-#     user_id = int(message.chat.id)
-#     sql.execute(f"UPDATE users SET number_ordinary_words = {0} WHERE id = '{user_id}'")
-#     db.commit()
-#     bot.send_message(message.chat.id, 'Ваши результаты по Ordinary words обнулены')
+def Restart_ordinary_words(message):
+    user_id = int(message.chat.id)
+    sql.execute(f"UPDATE users SET number_ordinary_words = {0} WHERE id = '{user_id}'")
+    db.commit()
+    bot.send_message(message.chat.id, 'Ваши результаты по Ordinary words обнулены')
 #
 #
 # def Restart_Irregular_verbs(message):

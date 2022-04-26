@@ -6,8 +6,6 @@
 #
 # bot = TeleBot(BOT_TOKEN)
 #
-# with open('./Vocabulary/Ordinary_words.txt', encoding='utf-8') as inp:
-#     Owords = inp.readlines()
 #
 # with open('./Vocabulary/IrregularVerbs.txt', encoding='utf-8') as inp:
 #     Iwords = inp.readlines()

@@ -8,15 +8,13 @@
 # from db import Base
 from config import dp
 from aiogram.utils import executor
-
-
 from handlers import comands
 from handlers import expanded_game
 from handlers import expanded_vocabluary
 
 comands.menu_hendlers(dp)
-expanded_game.expanded_menu_hendlers(dp)
-expanded_vocabluary.expanded_vocabulary(dp)
+expanded_game.expanded_game_f(dp)
+expanded_vocabluary.expanded_vocabulary_f(dp)
 
 
 
