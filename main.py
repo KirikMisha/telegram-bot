@@ -6,71 +6,23 @@
 #     number_Basic_stable_expressions
 # from Links.Links import Links
 # from db import Base
-from config import *
+from config import dp
 from aiogram.utils import executor
 
 
 from handlers import comands
+from handlers import expanded_game
+from handlers import expanded_vocabluary
 
 comands.menu_hendlers(dp)
+expanded_game.expanded_menu_hendlers(dp)
+expanded_vocabluary.expanded_vocabulary(dp)
 
 
 
 
-
-
-
-
-# # Создание новой строки в таблице базы данных по id пользователя
-# @bot.message_handler(commands=['start'])
-# def send_start(message):
-#     Base(message)   # db
-# # --------------------------------------------------------------------
-#
-# # Главное меню
-# @bot.message_handler(commands=['menu'])
-# def send_menu(message):
-#     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-#     item1 = types.KeyboardButton('🕹️ Game')
-#     item2 = types.KeyboardButton('📝 Grammar')
-#     item3 = types.KeyboardButton('📚 Vocabulary')
-#     item4 = types.KeyboardButton('Полезные ссылки')
-#     markup.add(item1, item2, item3, item4)
-#     bot.send_message(message.chat.id, '🗂️ Menu', reply_markup=markup)
-# # --------------------------------------------------------------------
-#
-# from handlers  import Menu
-#
-#
-#
-#
-#
-#
-#
-#
 # @bot.message_handler(content_types=['text'])
 # def base(message):
-#     if message.text == '🕹️ Game':
-#         Game(message)
-#
-#     elif message.text == 'Word Game':
-#         word_game(message)
-#
-#     elif message.text == '📝 Grammar':
-#         Grammar(message)
-#
-#     elif message.text == '📚 Vocabulary':
-#         Word(message)
-#
-#     elif message.text == '📚 Ordinary words':
-#         ordinary_words(message)
-#
-#     elif message.text == '📖 Irregular verbs':
-#         Irregular_verbs(message)
-#
-#     elif message.text == '💁‍♂ Basic stable expressions':
-#         Basic_stable_expressions(message)
-#
 #     elif message.text == '📙 Restart':
 #         Restart_Basic_stable_expressions(message)
 #
@@ -91,9 +43,6 @@ comands.menu_hendlers(dp)
 #
 #     elif message.text == 'Полезные ссылки':
 #         Links(message)
-#
-#     elif message.text == '🕰️ Time':
-#         Time(message)
 #
 #     elif message.text == '⬅ Back':
 #         send_menu(message)

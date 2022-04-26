@@ -1,4 +1,3 @@
-from config import bot, dp
 from aiogram import types
 import sqlite3
 
