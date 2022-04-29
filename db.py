@@ -1,5 +1,7 @@
 from aiogram import types
 import sqlite3
+from config import bot
+
 
 global sql
 global db
@@ -22,49 +24,17 @@ async def Base(message: types.Message):
         db.commit()
 
 
-def Plass(message, a):
+def plass(message, column, number_of_words):
     user_id = int(message.chat.id)
-    for i in sql.execute(f"SELECT number_ordinary_words FROM users WHERE id = '{user_id}'"):
+    for i in sql.execute(f"SELECT {column} FROM users WHERE id = '{user_id}'"):
         balance = i[0]
-    sql.execute(f"UPDATE users SET number_ordinary_words = {balance + a} WHERE id = '{user_id}'")
+    sql.execute(f"UPDATE users SET {column} = {balance + number_of_words} WHERE id = '{user_id}'")
     db.commit()
     return balance
-#
-#
-# def PlassI(message, a):
-#     user_id = int(message.chat.id)
-#     for i in sql.execute(f"SELECT number_Irregular_verbs FROM users WHERE id = '{user_id}'"):
-#         balance = i[0]
-#     sql.execute(f"UPDATE users SET number_Irregular_verbs = {balance + a} WHERE id = '{user_id}'")
-#     db.commit()
-#     return balance
-#
-#
-# def PlassB(message, a):
-#     user_id = int(message.chat.id)
-#     for i in sql.execute(f"SELECT number_Basic_stable_expressions FROM users WHERE id = '{user_id}'"):
-#         balance = i[0]
-#     sql.execute(f"UPDATE users SET number_Basic_stable_expressions = {balance + a} WHERE id = '{user_id}'")
-#     db.commit()
-#     return balance
-#
-#
-def Restart_ordinary_words(message):
+
+
+async def restart_words(message, column):
     user_id = int(message.chat.id)
-    sql.execute(f"UPDATE users SET number_ordinary_words = {0} WHERE id = '{user_id}'")
+    sql.execute(f"UPDATE users SET {column} = {0} WHERE id = '{user_id}'")
     db.commit()
-    bot.send_message(message.chat.id, 'Ваши результаты по Ordinary words обнулены')
-#
-#
-# def Restart_Irregular_verbs(message):
-#     user_id = int(message.chat.id)
-#     sql.execute(f"UPDATE users SET number_Irregular_verbs = {0} WHERE id = '{user_id}'")
-#     db.commit()
-#     bot.send_message(message.chat.id, 'Ваши результаты по Irregular verbs обнулены')
-#
-#
-# def Restart_Basic_stable_expressions(message):
-#     user_id = int(message.chat.id)
-#     sql.execute(f"UPDATE users SET number_Basic_stable_expressions = {0} WHERE id = '{user_id}'")
-#     db.commit()
-#     bot.send_message(message.chat.id, 'Ваши результаты по Basic stable expressions обнулены')
+    await bot.send_message(message.chat.id, f'Ваши результаты по {column} обнулены')
