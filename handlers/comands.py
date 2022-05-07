@@ -31,4 +31,3 @@ def menu_hendlers(dp: Dispatcher):
     dp.register_message_handler(send_menu, commands=['menu'])
     dp.register_message_handler(send_start, commands=['start'])
     dp.register_callback_query_handler(back, text='back_menu')
-
