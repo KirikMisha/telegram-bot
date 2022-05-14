@@ -11,6 +11,7 @@ from aiogram.dispatcher.filters.state import StatesGroup, State
 class words_game(StatesGroup):
     first_word_user = State()
     first_word_bot = State()
+    main_user = State()
 
 class test(StatesGroup):
     test1 = State()
