@@ -8,9 +8,9 @@ dp = Dispatcher(bot, storage=MemoryStorage())
 from aiogram.dispatcher.filters.state import StatesGroup, State
 
 
-class test(StatesGroup):
-    test1 = State()
-    test2 = State()
+class words_game(StatesGroup):
+    first_word_user = State()
+    first_word_bot = State()
 
 
 

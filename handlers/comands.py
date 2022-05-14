@@ -7,6 +7,7 @@ from db import Base
 # Создание новой строки в таблице базы данных по id пользователя--------------------------------------------------------
 async def send_start(message: types.Message):
     await Base(message)  # db
+    # dp.send_message(message.chat.id, 'Привет, я бот помошник в изучении Английского')
 # ----------------------------------------------------------------------------------------------------------------------
 
 
@@ -25,6 +26,7 @@ async def send_menu(message: types.Message):
 async def back(callback: types.CallbackQuery):
     await bot.delete_message(callback.from_user.id, callback.message.message_id)
     await send_menu(callback.message)
+#-----------------------------------------------------------------------------------------------------------------------
 
 
 def menu_hendlers(dp: Dispatcher):
