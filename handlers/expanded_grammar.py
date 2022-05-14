@@ -17,7 +17,7 @@ async def time(callback: CallbackQuery):
     item1 = InlineKeyboardButton('⏳Present simple', callback_data='time')
     item2 = InlineKeyboardButton('⌚Present continuous',callback_data='time')
     item3 = InlineKeyboardButton('⏰Present perfect',callback_data='time')
-    item4 = InlineKeyboardButton('🔞Past simple',callback_data='time')
+    item4 = InlineKeyboardButton('🔞Past simple',callback_data='1')
     item5 = InlineKeyboardButton('⬅ Back',callback_data='back_menu')
     markup = InlineKeyboardMarkup()
     markup.add(item1, item2, item3, item4, item5)
