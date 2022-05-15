@@ -57,7 +57,7 @@ async def test_first_simple(callback: CallbackQuery):
     item1 = KeyboardButton('invited')  # Правильный ответ
     item2 = KeyboardButton('invite')
     item3 = KeyboardButton('inviting')
-    markup = ReplyKeyboardMarkup()
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
     markup.add(item1, item2, item3)
     await callback.message.answer('I (to invite) __ your friend to the party.', reply_markup=markup)
     await test.test1.set()
@@ -71,7 +71,7 @@ async def test2_simple(message: Message, state: FSMContext):
     item1 = KeyboardButton('found')  # True answer
     item2 = KeyboardButton('finds')
     item3 = KeyboardButton('finded')
-    markup = ReplyKeyboardMarkup()
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
     markup.add(item1, item2, item3)
     await message.answer( 'Paul (to find) __ a good and inexpensive hotel.', reply_markup=markup)
     await test.test2.set()
@@ -79,64 +79,54 @@ async def test2_simple(message: Message, state: FSMContext):
 
 
 async def test3_simple(message: Message, state: FSMContext):
-    markup = ReplyKeyboardMarkup()
+    if message.text == 'found':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: found')
     item1 = KeyboardButton('understanded')
     item2 = KeyboardButton('understand')
     item3 = KeyboardButton('understood')   # Правильный ответ
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
     markup.add(item1, item2, item3)
-    await bot.send_message(message.chat.id, 'We (to understand) __ each other..', reply_markup=markup)
+    await message.answer('We (to understand) __ each other..', reply_markup=markup)
+    await test.test3.set()
 
-# def Test4_simple(message):
-#     markup = types.ReplyKeyboardMarkup()
-#     item1 = types.KeyboardButton('... didn’t play chess yesterday.') # Правильный ответ
-#     item2 = types.KeyboardButton('... did no play chess yesterday.')
-#     item3 = types.KeyboardButton('... not played chess yesterday.')
-#     item4 = types.KeyboardButton('⬅ Back')
-#     markup.add(item1, item2, item3, item4)
-#     bot.send_message(message.chat.id, 'В каком варианте представлена отрицательная форма данного предложения: «Billy and Jim played chess yesterday»?', reply_markup=markup)
-# def Test5_simple(message):
-#     markup = types.ReplyKeyboardMarkup()
-#     item1 = types.KeyboardButton('had')
-#     item2 = types.KeyboardButton('did sang')  # Правильный ответ
-#     item3 = types.KeyboardButton('didn’t say')
-#     item4 = types.KeyboardButton('⬅ Back')
-#     markup.add(item1, item2, item3, item4)
-#     bot.send_message(message.chat.id, ' В каком варианте ответа допущена ошибка?', reply_markup=markup)
-# def Test6_simple(message):
-#     markup = types.ReplyKeyboardMarkup()
-#     item1 = types.KeyboardButton('had.')   # Правильный ответ
-#     item2 = types.KeyboardButton('did have')
-#     item3 = types.KeyboardButton('did')
-#     item4 = types.KeyboardButton('⬅ Back')
-#     markup.add(item1, item2, item3, item4)
-#     bot.send_message(message.chat.id, ' Дополните предложение “Andy … an interesting idea”, используя подходящую форму глагола:', reply_markup=markup)
-# def Test7_simple(massage):
-#     markup = types.ReplyKeyboardMarkup()
-#     item1 = types.KeyboardButton('She not looked alive.')  # Правильный ответ
-#     item2 = types.KeyboardButton('The man introduced me to his wife last week.')
-#     item3 = types.KeyboardButton('Yesterday I was getting very worried.')
-#     item4 = types.KeyboardButton('⬅ Back')
-#     markup.add(item1, item2, item3, item4)
-#     bot.send_message(message.chat.id, ' Найдите предложение, в котором допущена ошибка:', reply_markup=markup)
-# def Test8_simple(message):
-#     markup = types.ReplyKeyboardMarkup()
-#     bot.send_message(message.chat.id, ' 1)Masha didn’t like his behavior.', reply_markup=markup)
-#     bot.send_message(message.chat.id, ' 2)TDid Ann clean her room yesterday?', reply_markup=markup)
-#     bot.send_message(message.chat.id, ' 3)When did you buy those boots?', reply_markup=markup)
-#     item1 = types.KeyboardButton('1')
-#     item2 = types.KeyboardButton('2')
-#     item3 = types.KeyboardButton('3')  # Правильный ответ
-#     item4 = types.KeyboardButton('⬅ Back')
-#     markup.add(item1, item2, item3, item4)
-#     bot.send_message(message.chat.id, ' В каком предложении употреблен неправильный глагол?', reply_markup=markup)
-# def Test9_simple(message):
-#     markup = types.ReplyKeyboardMarkup()
-#     item1 = types.KeyboardButton('did go')
-#     item2 = types.KeyboardButton('go')  # Правильный ответ
-#     item3 = types.KeyboardButton('gone')
-#     item4 = types.KeyboardButton('⬅ Back')
-#     markup.add(item1, item2, item3, item4)
-#     bot.send_message(message.chat.id, 'Дополните предложение “Where did everybody … yesterday?”, используя подходящую форму глагола:', reply_markup=markup)
+async def test4_simple(message: Message, state: FSMContext):
+    if message.text == 'understood':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: understood')
+    item1 = KeyboardButton('... didn’t play chess yesterday.') # Правильный ответ
+    item2 = KeyboardButton('... did no play chess yesterday.')
+    item3 = KeyboardButton('... not played chess yesterday.')
+    markup = ReplyKeyboardMarkup(row_width=1, resize_keyboard=True)
+    markup.add(item1, item2, item3)
+    await message.answer('В каком варианте представлена отрицательная форма данного предложения: «Billy and Jim played'
+                         ' chess yesterday»?', reply_markup=markup)
+    await test.test4.set()
+async def test5_simple(message: Message, state: FSMContext):
+    if message.text == '... didn’t play chess yesterday.':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: ... didn’t play chess yesterday.')
+    item1 = KeyboardButton('had')
+    item2 = KeyboardButton('did sang')  # Правильный ответ
+    item3 = KeyboardButton('didn’t say')
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(item1, item2, item3)
+    await message.answer(' В каком варианте ответа допущена ошибка?', reply_markup=markup)
+    await test.test5.set()
+async def test6_simple(message: Message, state: FSMContext):
+    if message.text == 'did sang':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: did sang')
+    markup = InlineKeyboardMarkup(resize_keyboard=True)
+    item1 = InlineKeyboardButton('⬅ Back', callback_data = 'back_menu')
+    markup.add(item1)
+    await message.answer ('Поздравляю вы прошли тест!', reply_markup=markup)
+    await state.finish()
+
 
 # Register hendlers-----------------------------------------------------------------------------------------------------
 def expanded_grammar_f(dp: Dispatcher):
@@ -149,5 +139,8 @@ def expanded_grammar_f(dp: Dispatcher):
     dp.register_callback_query_handler(test_first_simple, text='test_first_simple')
     dp.register_message_handler(test2_simple, state=test.test1)
     dp.register_message_handler(test3_simple, state=test.test2)
+    dp.register_message_handler(test4_simple, state=test.test3)
+    dp.register_message_handler(test5_simple, state=test.test4)
+    dp.register_message_handler(test6_simple, state=test.test5)
 
 # -----------------------------------------------------------------------------------------------------------------------
