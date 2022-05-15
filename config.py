@@ -18,3 +18,8 @@ class test(StatesGroup):
     test3 = State()
     test1 = State()
     test2 = State()
+    test6 = State()
+    test7 = State()
+    test8 = State()
+    test9 = State()
+    test10 = State()
