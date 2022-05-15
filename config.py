@@ -13,8 +13,8 @@ class words_game(StatesGroup):
     first_word_bot = State()
 
 class test(StatesGroup):
+    test4 = State()
+    test5 = State()
+    test3 = State()
     test1 = State()
     test2 = State()
-
-
-
