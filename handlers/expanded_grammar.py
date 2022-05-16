@@ -402,19 +402,23 @@ def expanded_grammar_f(dp: Dispatcher):
     dp.register_message_handler(test3_simple, state=test.test2)
     dp.register_message_handler(test4_simple, state=test.test3)
     dp.register_message_handler(test5_simple, state=test.test4)
+    dp.register_message_handler(test6_simple, state=test.test5)
     #---------
     dp.register_message_handler(test2_continuous, state=test.test6)
     dp.register_message_handler(test3_continuous, state=test.test7)
     dp.register_message_handler(test4_continuous, state=test.test8)
     dp.register_message_handler(test5_continuous, state=test.test9)
+    dp.register_message_handler(test6_continuous, state=test.test10)
     #----------
     dp.register_message_handler(test2_perfect, state=test.test11)
     dp.register_message_handler(test3_perfect, state=test.test12)
     dp.register_message_handler(test4_perfect, state=test.test13)
     dp.register_message_handler(test5_perfect, state=test.test14)
+    dp.register_message_handler(test6_perfect, state=test.test15)
     #-------
     dp.register_message_handler(test2_past, state=test.test16)
     dp.register_message_handler(test3_past, state=test.test17)
     dp.register_message_handler(test4_past, state=test.test18)
     dp.register_message_handler(test5_past, state=test.test19)
+    dp.register_message_handler(test6_past, state=test.test20)
 # -----------------------------------------------------------------------------------------------------------------------
