@@ -48,7 +48,7 @@ async def present_continuous(callback: CallbackQuery):
 
 
 async def present_perfect(callback: CallbackQuery):
-    item1 = InlineKeyboardButton('🙈TestЕhird', callback_data='time')
+    item1 = InlineKeyboardButton('🙈TestЕhird', callback_data='test_second_perfect')
     item2 = InlineKeyboardButton('⬅ Back', callback_data='back_menu')
     markup = InlineKeyboardMarkup()
     markup.add(item1, item2)
@@ -57,7 +57,7 @@ async def present_perfect(callback: CallbackQuery):
 
 
 async def past_simple(callback: CallbackQuery):
-    item1 = InlineKeyboardButton('🙈TestFourth', callback_data='time')
+    item1 = InlineKeyboardButton('🙈TestFourth', callback_data='test_second_past')
     item2 = InlineKeyboardButton('⬅ Back', callback_data='back_menu')
     markup = InlineKeyboardMarkup()
     markup.add(item1, item2)
@@ -224,6 +224,167 @@ async def test6_continuous(message: Message, state: FSMContext):
     await state.finish()
 
 
+#present_perfect--------------------------------------------------------------------------------------------------------
+
+async def test_second_perfect(callback: CallbackQuery):
+    item1 = KeyboardButton('has broke')
+    item2 = KeyboardButton('have broken')
+    item3 = KeyboardButton('has broken') # Правильный ответ
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(item1, item2, item3)
+    await callback.message.answer('My car .... down.', reply_markup=markup)
+    await test.test11.set()
+
+
+async def test2_perfect(message: Message, state: FSMContext):
+    if message.text == 'has broken':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: has broken')
+    item1 = KeyboardButton('have answered')     # True answer
+    item2 = KeyboardButton('has answerd')
+    item3 = KeyboardButton('have answeren')
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(item1, item2, item3)
+    await message.answer('They .... all my questions.', reply_markup=markup)
+    await test.test12.set()
+
+
+async def test3_perfect(message: Message, state: FSMContext):
+    if message.text == 'have answered':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: have answered')
+    item1 = KeyboardButton('ve known')  # Правильный ответ
+    item2 = KeyboardButton('has known')
+    item3 = KeyboardButton('have knowen')
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(item1, item2, item3)
+    await message.answer('I .... Nick for 10 years.', reply_markup=markup)
+    await test.test13.set()
+
+
+async def test4_perfect(message: Message, state: FSMContext):
+    if message.text == 've known':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: ve known')
+    item1 = KeyboardButton('have lost')
+    item2 = KeyboardButton('has lose')
+    item3 = KeyboardButton('has lost')  # Правильный ответ
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(item1, item2, item3)
+    await message.answer('She .... her keys.', reply_markup=markup)
+    await test.test14.set()
+
+
+async def test5_perfect(message: Message, state: FSMContext):
+    if message.text == 'has lost':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: has lost')
+    item1 = KeyboardButton('have drunk')
+    item2 = KeyboardButton('has drunk')     # Правильный ответ
+    item3 = KeyboardButton('has drank')
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(item1, item2, item3)
+    await message.answer('The cat .... all of its milk.', reply_markup=markup)
+    await test.test15.set()
+
+
+async def test6_perfect(message: Message, state: FSMContext):
+    if message.text == 'has drunk':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: has drunk')
+    markup = InlineKeyboardMarkup(resize_keyboard=True)
+    item1 = InlineKeyboardButton('⬅ Back', callback_data='back_menu')
+    markup.add(item1)
+    await message.answer('Поздравляю вы прошли тест!', reply_markup=markup)
+    await state.finish()
+
+
+#past_simple------------------------------------------------------------------------------------------------------------
+
+
+async def test_second_past(callback: CallbackQuery):
+    item1 = KeyboardButton('come')
+    item2 = KeyboardButton('came')  # Правильный ответ
+    item3 = KeyboardButton('comed')
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(item1, item2, item3)
+    await callback.message.answer('He .... home late last night.', reply_markup=markup)
+    await test.test16.set()
+
+
+async def test2_past(message: Message, state: FSMContext):
+    if message.text == 'came':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: came')
+    item1 = KeyboardButton('finishen')
+    item2 = KeyboardButton('finish')
+    item3 = KeyboardButton('finished')  # True answer
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(item1, item2, item3)
+    await message.answer('She .... her work half an hour ago.', reply_markup=markup)
+    await test.test17.set()
+
+
+async def test3_past(message: Message, state: FSMContext):
+    if message.text == 'have answered':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: have answered')
+    item1 = KeyboardButton('saw')  # Правильный ответ
+    item2 = KeyboardButton('see')
+    item3 = KeyboardButton('seen')
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(item1, item2, item3)
+    await message.answer('I .... this film last week.', reply_markup=markup)
+    await test.test18.set()
+
+
+async def test4_past(message: Message, state: FSMContext):
+    if message.text == 'saw':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: saw')
+    item1 = KeyboardButton('happen')
+    item2 = KeyboardButton('happened')  # Правильный ответ
+    item3 = KeyboardButton('happend')
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(item1, item2, item3)
+    await message.answer('It .... on a sunny spring day.', reply_markup=markup)
+    await test.test19.set()
+
+
+async def test5_past(message: Message, state: FSMContext):
+    if message.text == 'has lost':
+        await bot.send_message(message.chat.id, 'ответ верный')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: has lost')
+    item1 = KeyboardButton('was')   # Правильный ответ
+    item2 = KeyboardButton('were')
+    item3 = KeyboardButton('been')
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(item1, item2, item3)
+    await message.answer('I .... born in August.', reply_markup=markup)
+    await test.test20.set()
+
+
+async def test6_past(message: Message, state: FSMContext):
+    if message.text == 'was':
+        await bot.send_message(message.chat.id, 'ответ верный was')
+    else:
+        await bot.send_message(message.chat.id, 'ответ не верный, правильный ответ: has drunk')
+    markup = InlineKeyboardMarkup(resize_keyboard=True)
+    item1 = InlineKeyboardButton('⬅ Back', callback_data='back_menu')
+    markup.add(item1)
+    await message.answer('Поздравляю вы прошли тест!', reply_markup=markup)
+    await state.finish()
+
+
 # Register hendlers-----------------------------------------------------------------------------------------------------
 def expanded_grammar_f(dp: Dispatcher):
     dp.register_callback_query_handler(grammar_menu, text='grammar_menu')
@@ -234,12 +395,26 @@ def expanded_grammar_f(dp: Dispatcher):
     dp.register_callback_query_handler(past_simple, text='past_simple')
     dp.register_callback_query_handler(test_first_simple, text='test_first_simple')
     dp.register_callback_query_handler(test_second_continuous, text='test_second_continuous')
+    dp.register_callback_query_handler(test_second_perfect, text='test_second_perfect')
+    dp.register_callback_query_handler(test_second_perfect, text='test_second_past')
+    #--------
     dp.register_message_handler(test2_simple, state=test.test1)
     dp.register_message_handler(test3_simple, state=test.test2)
     dp.register_message_handler(test4_simple, state=test.test3)
     dp.register_message_handler(test5_simple, state=test.test4)
+    #---------
     dp.register_message_handler(test2_continuous, state=test.test6)
     dp.register_message_handler(test3_continuous, state=test.test7)
     dp.register_message_handler(test4_continuous, state=test.test8)
     dp.register_message_handler(test5_continuous, state=test.test9)
+    #----------
+    dp.register_message_handler(test2_perfect, state=test.test11)
+    dp.register_message_handler(test3_perfect, state=test.test12)
+    dp.register_message_handler(test4_perfect, state=test.test13)
+    dp.register_message_handler(test5_perfect, state=test.test14)
+    #-------
+    dp.register_message_handler(test2_past, state=test.test16)
+    dp.register_message_handler(test3_past, state=test.test17)
+    dp.register_message_handler(test4_past, state=test.test18)
+    dp.register_message_handler(test5_past, state=test.test19)
 # -----------------------------------------------------------------------------------------------------------------------
