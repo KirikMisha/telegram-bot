@@ -131,38 +131,57 @@ def random_word_words_game(word):
 async def crocodile_gamee(callback: types.CallbackQuery):
     await bot.delete_message(callback.from_user.id, callback.message.message_id)
     item1 = types.InlineKeyboardButton('First words', callback_data='first_words')
+    item2 = types.InlineKeyboardButton('Second words', callback_data='second_words')
     markup = types.InlineKeyboardMarkup()
-    markup.add(item1)
+    markup.add(item1,item2)
     await callback.message.answer('ты конч', reply_markup=markup)
 #-----------------------------------------------------------------------------------------------------------------------
 
 
-async def first_words(callback: types.CallbackQuery):
-    await bot.send_message(callback.message.chat.id,'this item has 4 wheels')
+async def true_word(callback: types.CallbackQuery):
+    if callback.data == 'first_words':
+        global word_true
+        global hint_2
+        global hint_3
+        word_true = "quad bike"
+        hint_1 = 'this item has 4 wheels'
+        hint_2 = 'You can drive without a license'
+        hint_3 = '8 letters and two words'
+        await first_words(callback.message,hint_1)
+    elif callback.data == 'second_words':
+        word_true = "telephone"
+        hint_1 = 'everyone has this thing'
+        hint_2 = 'Sold in an electronics store'
+        hint_3 = 'Built-in camera'
+        await first_words(callback.message,hint_1)
+
+
+async def first_words(message: types.Message,hint_1):
+    await bot.send_message(message.chat.id, hint_1)
     await crocodile_game.first_message.set()
 
 async def first_words_crocodile_game(message: types.Message, state: FSMContext):
-    if message.text == "quad bike":
+    if message.text == word_true:
         await true_words(message)
         await state.finish()
     else:
-        await bot.send_message(message.chat.id,'You can drive without a license')
+        await bot.send_message(message.chat.id,hint_2)
         await crocodile_game.first_words_crocodile_game2.set()
 
 async def first_words_crocodile_game2(message: types.Message, state: FSMContext):
-    if message.text == "quad bike":
+    if message.text == word_true:
         await true_words(message)
         await state.finish()
     else:
-        await bot.send_message(message.chat.id,'8 letters and two words')
+        await bot.send_message(message.chat.id,hint_3)
         await crocodile_game.first_words_crocodile_game3.set()
 
 async def first_words_crocodile_game3(message: types.Message, state: FSMContext):
-    if message.text == "quad bike":
+    if message.text == word_true:
         await true_words(message)
         await state.finish()
     else:
-        await bot.send_message(message.chat.id,'quad bike')
+        await bot.send_message(message.chat.id,word_true)
         await false_words(message)
         await state.finish()
 
@@ -193,5 +212,6 @@ def expanded_game_f(dp: Dispatcher):
     dp.register_message_handler(first_words_crocodile_game, state=crocodile_game.first_message)
     dp.register_message_handler(first_words_crocodile_game2, state=crocodile_game.first_words_crocodile_game2)
     dp.register_message_handler(first_words_crocodile_game3, state=crocodile_game.first_words_crocodile_game3)
-    dp.register_callback_query_handler(first_words, text='first_words')
+    dp.register_callback_query_handler(true_word, text='first_words')
+    dp.register_callback_query_handler(true_word, text='second_words')
 #--------------------------------
