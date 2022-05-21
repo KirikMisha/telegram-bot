@@ -16,9 +16,7 @@ class words_game(StatesGroup):
 
 class crocodile_game(StatesGroup):
     first_message=State()
-    true_words=State()
     main_users=State()
-    false_words=State()
     first_words_crocodile_game2=State()
     first_words_crocodile_game3=State()
 
