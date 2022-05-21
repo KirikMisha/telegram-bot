@@ -13,9 +13,33 @@ class words_game(StatesGroup):
     first_word_bot = State()
     main_user = State()
 
+
 class crocodile_game(StatesGroup):
     first_message=State()
     main_users=State()
     first_words_crocodile_game2=State()
     first_words_crocodile_game3=State()
+
+
+class test(StatesGroup):
+    test4 = State()
+    test5 = State()
+    test3 = State()
+    test1 = State()
+    test2 = State()
+    test6 = State()
+    test7 = State()
+    test8 = State()
+    test9 = State()
+    test10 = State()
+    test11 = State()
+    test12 = State()
+    test13 = State()
+    test14 = State()
+    test15 = State()
+    test16 = State()
+    test17 = State()
+    test18 = State()
+    test19 = State()
+    test20 = State()
 
